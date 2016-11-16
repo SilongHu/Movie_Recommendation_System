@@ -1,0 +1,500 @@
+﻿肖申克的救赎	1292052	9.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p480747492.jpg	http://movie.douban.com/subject/1292052/	弗兰克·德拉邦特	蒂姆·罗宾斯	摩根·弗里曼	鲍勃·冈顿	1994-09-10	剧情	犯罪	
+这个杀手不太冷	1295644	9.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p511118051.jpg	http://movie.douban.com/subject/1295644/	吕克·贝松	让·雷诺	娜塔莉·波特曼	加里·奥德曼	1994-09-14	剧情	动作	犯罪	
+阿甘正传	1292720	9.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p510876377.jpg	http://movie.douban.com/subject/1292720/	罗伯特·泽米吉斯	汤姆·汉克斯	罗宾·怀特	加里·西尼斯	1994-06-23	剧情	爱情	
+霸王别姬	1291546	9.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910813120.jpg	http://movie.douban.com/subject/1291546/	陈凯歌	张国荣	张丰毅	巩俐	1993-01-01	剧情	爱情	同性	
+美丽人生	1292063	9.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p510861873.jpg	http://movie.douban.com/subject/1292063/	罗伯托·贝尼尼	罗伯托·贝尼尼	尼可莱塔·布拉斯基	乔治·坎塔里尼	1997-12-20	剧情	战争	
+海上钢琴师	1292001	9.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p511146957.jpg	http://movie.douban.com/subject/1292001/	朱塞佩·托纳多雷	蒂姆·罗斯	普路特·泰勒·文斯	比尔·努恩	1998-10-28	剧情	音乐	
+千与千寻	1291561	9.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910830216.jpg	http://movie.douban.com/subject/1291561/	宫崎骏	柊瑠美	入野自由	夏木真理	2001-07-20	剧情	动画	奇幻	
+机器人总动员	2131459	9.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p449665982.jpg	http://movie.douban.com/subject/2131459/	安德鲁·斯坦顿	本·贝尔特	艾丽莎·奈特	杰夫·格尔林	2008-06-27	喜剧	爱情	科幻	动画	冒险	
+泰坦尼克号	1292722	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p457757219.jpg	http://movie.douban.com/subject/1292722/	詹姆斯·卡梅隆	莱昂纳多·迪卡普里奥	凯特·温丝莱特	比利·赞恩	1998-04-03	剧情	爱情	灾难	
+盗梦空间	3541415	9.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p513344864.jpg	http://movie.douban.com/subject/3541415/	克里斯托弗·诺兰	莱昂纳多·迪卡普里奥	约瑟夫·高登-莱维特	艾伦·佩吉	2010-09-01	剧情	动作	科幻	悬疑	冒险	
+三傻大闹宝莱坞	3793023	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p579729551.jpg	http://movie.douban.com/subject/3793023/	拉吉库马尔·希拉尼	阿米尔·汗	卡琳娜·卡普尔	马达范	2011-12-08	剧情	喜剧	爱情	歌舞	
+放牛班的春天	1291549	9.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910824951.jpg	http://movie.douban.com/subject/1291549/	克里斯托夫·巴拉蒂	杰拉尔·朱诺	弗朗西斯·贝尔兰德	凯德·麦拉德	2004-03-17	剧情	音乐	儿童	
+忠犬八公的故事	3011091	9.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p524964016.jpg	http://movie.douban.com/subject/3011091/	莱塞·霍尔斯道姆	理查·基尔	萨拉·罗默尔	琼·艾伦	2009-06-13	剧情	
+龙猫	1291560	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910829638.jpg	http://movie.douban.com/subject/1291560/	宫崎骏	日高法子	坂本千夏	岛本须美	1988-04-16	动画	奇幻	
+教父	1291841	9.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910907404.jpg	http://movie.douban.com/subject/1291841/	弗朗西斯·福特·科波拉	马龙·白兰度	阿尔·帕西诺	詹姆斯·凯恩	1972-03-15	剧情	犯罪	
+大话西游之大圣娶亲	1292213	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p648365452.jpg	http://movie.douban.com/subject/1292213/	刘镇伟	周星驰	吴孟达	朱茵	2014-10-24	喜剧	动作	爱情	奇幻	冒险	
+乱世佳人	1300267	9.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p1963126880.jpg	http://movie.douban.com/subject/1300267/	维克多·弗莱明	克拉克·盖博	费雯·丽	莱斯利·霍华德	1939-12-15	剧情	爱情	战争	
+天堂电影院	1291828	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910901025.jpg	http://movie.douban.com/subject/1291828/	朱塞佩·托纳多雷	安东娜拉·塔莉	恩佐·卡拉瓦勒	艾萨·丹尼埃利	1988-11-17	剧情	爱情	
+当幸福来敲门	1849031	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p1312700628.jpg	http://movie.douban.com/subject/1849031/	加布里尔·穆奇诺	威尔·史密斯	贾登·史密斯	坦迪·牛顿	2006-12-15	剧情	家庭	传记	
+楚门的世界	1292064	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p479681395.jpg	http://movie.douban.com/subject/1292064/	彼得·威尔	金·凯瑞	劳拉·琳妮	艾德·哈里斯	1998-06-05	剧情	科幻	
+指环王3：王者无敌	1291552	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910825503.jpg	http://movie.douban.com/subject/1291552/	彼得·杰克逊	维果·莫腾森	伊利亚·伍德	西恩·奥斯汀	2004-03-15	剧情	动作	奇幻	冒险	
+罗马假日	1293839	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2173397523.jpg	http://movie.douban.com/subject/1293839/	威廉·惠勒	奥黛丽·赫本	格利高里·派克	埃迪·艾伯特	1953-09-02	剧情	喜剧	爱情	
+触不可及	6786002	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p1454261925.jpg	http://movie.douban.com/subject/6786002/	奥利维·那卡什	弗朗索瓦·克鲁塞	奥玛·赛	安乐妮	2011-11-02	剧情	喜剧	
+海豚湾	3442220	9.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p455222172.jpg	http://movie.douban.com/subject/3442220/	路易·西霍尤斯	John·Chisholm	Mandy-Rae·Cruikshank	Charles·Hambleton	2009-07-31	纪录片	
+两杆大烟枪	1293350	9.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p792443418.jpg	http://movie.douban.com/subject/1293350/	盖·里奇	杰森·弗莱明	德克斯特·弗莱彻	尼克·莫兰	1998-08-28	剧情	喜剧	犯罪	
+十二怒汉	1293182	9.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2173577632.jpg	http://movie.douban.com/subject/1293182/	西德尼·吕美特	亨利·方达	马丁·鲍尔萨姆	约翰·菲尔德	1957-04	剧情	
+天空之城	1291583	9.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p1446261379.jpg	http://movie.douban.com/subject/1291583/	宫崎骏	田中真弓	鹫尾真知子	初井言荣	1986-08-02	动画	奇幻	冒险	
+鬼子来了	1291858	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p1181775734.jpg	http://movie.douban.com/subject/1291858/	姜文	姜文	香川照之	袁丁	2000-05-12	剧情	战争	
+飞越疯人院	1292224	9.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p792238287.jpg	http://movie.douban.com/subject/1292224/	米洛斯·福尔曼	杰克·尼科尔森	丹尼·德维托	克里斯托弗·洛伊德	1975-11-21	剧情	
+飞屋环游记	2129039	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p465583562.jpg	http://movie.douban.com/subject/2129039/	彼特·道格特	克里斯托弗·普卢默	约翰·拉岑贝格	爱德华·阿斯纳	2009-08-04	剧情	喜剧	动画	奇幻	冒险	
+大话西游之月光宝盒	1299398	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p1280323646.jpg	http://movie.douban.com/subject/1299398/	刘镇伟	周星驰	吴孟达	罗家英	2014-10-24	喜剧	动作	爱情	奇幻	冒险	古装	
+窃听风暴	1900841	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p1808872109.jpg	http://movie.douban.com/subject/1900841/	弗洛里安·亨克尔·冯·多纳斯马	乌尔里希·穆埃	马蒂娜·戈黛特	塞巴斯蒂安·科赫	2006-03-23	剧情	悬疑	
+无间道	1307914	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p462570972.jpg	http://movie.douban.com/subject/1307914/	刘伟强	刘德华	梁朝伟	黄秋生	2003-09-05	悬疑	惊悚	犯罪	
+天使爱美丽	1292215	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p803896904.jpg	http://movie.douban.com/subject/1292215/	让·皮埃尔·热内	奥黛丽·塔图	马修·卡索维茨	贾梅尔·杜布兹	2001-04-25	喜剧	爱情	
+V字仇杀队	1309046	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p1465235231.jpg	http://movie.douban.com/subject/1309046/	詹姆斯·麦克特格	娜塔莉·波特曼	雨果·维文	鲁珀特·格雷夫斯	2005-12-11	剧情	动作	科幻	惊悚	
+蝙蝠侠：黑暗骑士	1851857	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p462657443.jpg	http://movie.douban.com/subject/1851857/	克里斯托弗·诺兰	克里斯蒂安·贝尔	希斯·莱杰	艾伦·艾克哈特	2008-07-14	剧情	动作	科幻	惊悚	犯罪	
+闻香识女人	1298624	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p925123037.jpg	http://movie.douban.com/subject/1298624/	马丁·布莱斯	阿尔·帕西诺	克里斯·奥唐纳	詹姆斯·瑞布霍恩	1992-12-23	剧情	
+熔炉	5912992	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p1363250216.jpg	http://movie.douban.com/subject/5912992/	黄东赫	孔侑	郑有美	金志英	2011-09-22	剧情	
+指环王2：双塔奇兵	1291572	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p909265336.jpg	http://movie.douban.com/subject/1291572/	彼得·杰克逊	伊利亚·伍德	西恩·奥斯汀	伊恩·麦克莱恩	2003-04-25	剧情	动作	奇幻	冒险	
+指环王1：魔戒再现	1291571	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p1354436051.jpg	http://movie.douban.com/subject/1291571/	彼得·杰克逊	伊利亚·伍德	西恩·奥斯汀	伊恩·麦克莱恩	2001-12-19	剧情	动作	奇幻	冒险	
+美丽心灵	1306029	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p1665997400.jpg	http://movie.douban.com/subject/1306029/	朗·霍华德	罗素·克劳	詹妮弗·康纳利	艾德·哈里斯	2001-12-13	剧情	传记	
+活着	1292365	9.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2173575484.jpg	http://movie.douban.com/subject/1292365/	张艺谋	葛优	巩俐	姜武	1994-05-18	剧情	家庭	
+少年派的奇幻漂流	1929463	9.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p1784592701.jpg	http://movie.douban.com/subject/1929463/	李安	苏拉·沙玛	拉菲·斯波	伊尔凡·可汗	2012-11-22	剧情	奇幻	冒险	
+教父2	1299131	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p616779231.jpg	http://movie.douban.com/subject/1299131/	弗朗西斯·福特·科波拉	阿尔·帕西诺	罗伯特·杜瓦尔	黛安·基顿	1974-12-12	剧情	犯罪	
+七宗罪	1292223	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p457631605.jpg	http://movie.douban.com/subject/1292223/	大卫·芬奇	摩根·弗里曼	布拉德·皮特	凯文·史派西	1995-09-22	剧情	悬疑	惊悚	犯罪	
+剪刀手爱德华	1292370	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p480956937.jpg	http://movie.douban.com/subject/1292370/	蒂姆·波顿	约翰尼·德普	薇诺娜·瑞德	黛安·韦斯特	1990-12-06	剧情	爱情	奇幻	
+情书	1292220	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p449897379.jpg	http://movie.douban.com/subject/1292220/	岩井俊二	中山美穗	酒井美纪	柏原崇	1995-03-25	剧情	爱情	
+勇敢的心	1294639	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p1374546770.jpg	http://movie.douban.com/subject/1294639/	梅尔·吉布森	梅尔·吉布森	苏菲·玛索	布莱恩·考克斯	1995-05-24	剧情	动作	传记	历史	战争	
+哈尔的移动城堡	1308807	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2174346180.jpg	http://movie.douban.com/subject/1308807/	宫崎骏	倍赏千惠子	木村拓哉	美轮明宏	2004-09-05	爱情	动画	奇幻	冒险	
+美国往事	1292262	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p477229647.jpg	http://movie.douban.com/subject/1292262/	赛尔乔·莱翁内	罗伯特·德尼罗	詹姆斯·伍兹	詹妮弗·康纳利	1984-02-17	剧情	犯罪	
+死亡诗社	1291548	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910824340.jpg	http://movie.douban.com/subject/1291548/	彼得·威尔	罗宾·威廉姆斯	罗伯特·肖恩·莱纳德	伊桑·霍克	1989-06-02	剧情	
+钢琴家	1296736	9.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p792484461.jpg	http://movie.douban.com/subject/1296736/	罗曼·波兰斯基	艾德里安·布洛迪	托马斯·克莱舒曼	艾米莉娅·福克斯	2002-05-24	剧情	传记	历史	战争	
+致命魔术	1780330	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p480383375.jpg	http://movie.douban.com/subject/1780330/	克里斯托弗·诺兰	克里斯蒂安·贝尔	休·杰克曼	迈克尔·凯恩	2006-10-20	剧情	悬疑	惊悚	
+音乐之声	1294408	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p453788577.jpg	http://movie.douban.com/subject/1294408/	罗伯特·怀斯	朱莉·安德鲁斯	克里斯托弗·普卢默	埃琳诺·帕克	1965-03-02	剧情	爱情	歌舞	家庭	传记	
+狮子王	1301753	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p722758217.jpg	http://movie.douban.com/subject/1301753/	罗杰·阿勒斯	乔纳森·泰勒·托马斯	马修·布罗德里克	杰瑞米·艾恩斯	1995-07-15	剧情	动画	歌舞	家庭	冒险	
+被嫌弃的松子的一生	1787291	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p453723669.jpg	http://movie.douban.com/subject/1787291/	中岛哲也	中谷美纪	瑛太	香川照之	2006-05-27	剧情	歌舞	
+小鞋子	1303021	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2173580536.jpg	http://movie.douban.com/subject/1303021/	马基德·马基迪	Amir·Farrokh·Hashemian	默罕默德·阿米尔·纳吉	Bahare·Seddiqi	1999-01-22	剧情	家庭	儿童	
+低俗小说	1291832	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910902213.jpg	http://movie.douban.com/subject/1291832/	昆汀·塔伦蒂诺	约翰·特拉沃尔塔	乌玛·瑟曼	阿曼达·普拉莫	1994-05-12	剧情	犯罪	
+玛丽和马克思	3072124	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p1820615077.jpg	http://movie.douban.com/subject/3072124/	亚当·艾略特	托妮·科莱特	菲利普·塞默·霍夫曼	艾瑞克·巴纳	2009-04-09	剧情	爱情	动画	
+入殓师	2149806	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p594972928.jpg	http://movie.douban.com/subject/2149806/	泷田洋二郎	本木雅弘	广末凉子	山崎努	2008-09-13	剧情	
+沉默的羔羊	1293544	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p1593414327.jpg	http://movie.douban.com/subject/1293544/	乔纳森·戴米	朱迪·福斯特	安东尼·霍普金斯	斯科特·格伦	1991-02-14	剧情	惊悚	犯罪	
+本杰明·巴顿奇事	1485260	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p475749652.jpg	http://movie.douban.com/subject/1485260/	大卫·芬奇	布拉德·皮特	凯特·布兰切特	塔拉吉·P·汉森	2009-04-02	剧情	爱情	奇幻	
+黑客帝国	1291843	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910908765.jpg	http://movie.douban.com/subject/1291843/	安迪·沃卓斯基	基努·里维斯	凯瑞-安·莫斯	劳伦斯·菲什伯恩	1999-03-31	动作	科幻	
+大鱼	1291545	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p692813374.jpg	http://movie.douban.com/subject/1291545/	蒂姆·波顿	伊万·麦克格雷格	阿尔伯特·芬尼	比利·克鲁德普	2003-12-10	剧情	家庭	奇幻	冒险	
+射雕英雄传之东成西就	1316510	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p939993109.jpg	http://movie.douban.com/subject/1316510/	刘镇伟	梁朝伟	张国荣	张学友	1993-02-05	喜剧	古装	
+阳光灿烂的日子	1291875	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p967457079.jpg	http://movie.douban.com/subject/1291875/	姜文	夏雨	宁静	陶虹	1995-08-21	剧情	
+拯救大兵瑞恩	1292849	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p1014542496.jpg	http://movie.douban.com/subject/1292849/	史蒂文·斯皮尔伯格	汤姆·汉克斯	汤姆·塞兹摩尔	爱德华·伯恩斯	1998-07-24	剧情	历史	战争	
+幽灵公主	1297359	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p1613191025.jpg	http://movie.douban.com/subject/1297359/	宫崎骏	松田洋治	石田百合子	田中裕子	1997-07-12	动画	奇幻	冒险	
+第六感	1297630	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p918994530.jpg	http://movie.douban.com/subject/1297630/	M·奈特·沙马兰	布鲁斯·威利斯	海利·乔·奥斯蒙	托妮·科莱特	1999-08-02	剧情	悬疑	恐怖	家庭	
+让子弹飞	3742360	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p1512562287.jpg	http://movie.douban.com/subject/3742360/	姜文	姜文	葛优	周润发	2010-12-16	剧情	喜剧	动作	西部	
+饮食男女	1291818	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910899751.jpg	http://movie.douban.com/subject/1291818/	李安	吴倩莲	杨贵媚	王渝文	1994-08-03	剧情	家庭	
+上帝之城	1292208	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p455677490.jpg	http://movie.douban.com/subject/1292208/	卡迪亚·兰德	亚历桑德雷·罗德里格斯	Leandro·Firmino	菲利佩·哈根森	2002-05-18	剧情	犯罪	
+阳光姐妹淘	4917726	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p1374786017.jpg	http://movie.douban.com/subject/4917726/	姜炯哲	沈恩京	闵孝琳	姜素拉	2011-05-04	剧情	喜剧	
+心灵捕手	1292656	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p480965695.jpg	http://movie.douban.com/subject/1292656/	格斯·范·桑特	马特·达蒙	罗宾·威廉姆斯	本·阿弗莱克	1997-12-05	剧情	
+西西里的美丽传说	1292402	8.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p792400696.jpg	http://movie.douban.com/subject/1292402/	朱塞佩·托纳多雷	莫妮卡·贝鲁奇	圭塞佩·苏尔法罗	Luciano·Federico	2000-10-27	剧情	情色	战争	
+萤火虫之墓	1293318	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p1157334208.jpg	http://movie.douban.com/subject/1293318/	高畑勋	辰己努	白石绫乃	志乃原良子	1988-04-16	剧情	动画	战争	
+大闹天宫	1418019	9.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2184505167.jpg	http://movie.douban.com/subject/1418019/	万籁鸣	邱岳峰	富润生	毕克	1961	动画	奇幻	
+甜蜜蜜	1305164	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2225722786.jpg	http://movie.douban.com/subject/1305164/	陈可辛	黎明	张曼玉	杨恭如	2015-02-13	剧情	爱情	
+一一	1292434	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2119675128.jpg	http://movie.douban.com/subject/1292434/	杨德昌	吴念真	李凯莉	金燕玲	2000-05-14	剧情	爱情	家庭	
+重庆森林	1291999	8.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910925058.jpg	http://movie.douban.com/subject/1291999/	王家卫	林青霞	金城武	梁朝伟	1994-07-14	剧情	爱情	
+海洋	3443389	9.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p497010372.jpg	http://movie.douban.com/subject/3443389/	雅克·贝汉	皮尔斯·布鲁斯南	雅克·贝汉	姜文	2011-08-12	纪录片	
+春光乍泄	1292679	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p465939041.jpg	http://movie.douban.com/subject/1292679/	王家卫	梁朝伟	张国荣	张震	1997-05-30	剧情	爱情	同性	
+爱在黎明破晓前	1296339	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p1486234122.jpg	http://movie.douban.com/subject/1296339/	理查德·林克莱特	伊桑·霍克	朱莉·德尔佩	安德莉亚·埃克特	1995-01-27	剧情	爱情	
+爱在日落黄昏时	1291990	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p1910924055.jpg	http://movie.douban.com/subject/1291990/	理查德·林克莱特	伊桑·霍克	朱莉·德尔佩	弗农·多布切夫	2004-02-10	剧情	爱情	
+风之谷	1291585	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p1917567652.jpg	http://movie.douban.com/subject/1291585/	宫崎骏	岛本须美	京田尚子	松田洋治	1984-03-11	科幻	动画	奇幻	冒险	
+告白	4268598	8.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p689520756.jpg	http://movie.douban.com/subject/4268598/	中岛哲也	松隆子	冈田将生	木村佳乃	2010-06-05	剧情	惊悚	
+加勒比海盗	1298070	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p1596085504.jpg	http://movie.douban.com/subject/1298070/	戈尔·维宾斯基	约翰尼·德普	杰弗里·拉什	奥兰多·布鲁姆	2003-07-09	动作	奇幻	冒险	
+燃情岁月	1295865	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p1023654037.jpg	http://movie.douban.com/subject/1295865/	爱德华·兹威克	安东尼·霍普金斯	布拉德·皮特	朱莉娅·奥蒙德	1994-12-16	剧情	爱情	家庭	西部	
+驯龙高手	2353023	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p450042258.jpg	http://movie.douban.com/subject/2353023/	迪恩·德布洛斯	杰伊·巴鲁切尔	杰拉德·巴特勒	克雷格·费格森	2010-05-14	喜剧	动画	家庭	奇幻	冒险	
+阿凡达	1652587	8.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p1204213484.jpg	http://movie.douban.com/subject/1652587/	詹姆斯·卡梅隆	萨姆·沃辛顿	佐伊·索尔达娜	西格妮·韦弗	2010-01-04	动作	科幻	奇幻	冒险	
+侧耳倾听	1297052	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p456692072.jpg	http://movie.douban.com/subject/1297052/	近藤喜文	本名阳子	小林桂树	高山南	1995-07-15	剧情	爱情	动画	音乐	
+致命ID	1297192	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p453720880.jpg	http://movie.douban.com/subject/1297192/	詹姆斯·曼高德	约翰·库萨克	雷·利奥塔	阿曼达·皮特	2003-04-25	剧情	悬疑	惊悚	
+虎口脱险	1296909	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2173634628.jpg	http://movie.douban.com/subject/1296909/	杰拉尔·乌里	路易·德·菲耐斯	布尔维尔	Claudio·Brook	1966-12-08	喜剧	战争	
+真爱至上	1292401	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p475600770.jpg	http://movie.douban.com/subject/1292401/	理查德·柯蒂斯	休·格兰特	科林·费尔斯	艾玛·汤普森	2003-11-07	剧情	喜剧	爱情	
+超脱	5322596	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p1305562621.jpg	http://movie.douban.com/subject/5322596/	托尼·凯耶	艾德里安·布洛迪	克里斯蒂娜·亨德里克斯	詹姆斯·凯恩	2011-04-25	剧情	
+禁闭岛	2334904	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p1832875827.jpg	http://movie.douban.com/subject/2334904/	马丁·斯科塞斯	莱昂纳多·迪卡普里奥	马克·鲁弗洛	米歇尔·威廉姆斯	2010-02-13	剧情	悬疑	惊悚	
+菊次郎的夏天	1293359	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p751835224.jpg	http://movie.douban.com/subject/1293359/	北野武	北野武	关口雄介	岸本加世子	1999-05-20	剧情	喜剧	
+摩登时代	1294371	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2173707976.jpg	http://movie.douban.com/subject/1294371/	查理·卓别林	查理·卓别林	宝莲·高黛	亨利·伯格曼	1936-02-25	剧情	喜剧	爱情	
+幸福终点站	1292274	8.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p792263736.jpg	http://movie.douban.com/subject/1292274/	史蒂文·斯皮尔伯格	汤姆·汉克斯	凯瑟琳·泽塔-琼斯	斯坦利·图齐	2004-06-09	剧情	喜剧	爱情	
+神偷奶爸	3287562	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p792776858.jpg	http://movie.douban.com/subject/3287562/	皮埃尔·科芬	史蒂夫·卡瑞尔	杰森·席格尔	拉塞尔·布兰德	2010-06-20	喜剧	动画	儿童	
+借东西的小人阿莉埃蒂	4202302	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p617533616.jpg	http://movie.douban.com/subject/4202302/	米林宏昌	志田未来	神木隆之介	三浦友和	2010-07-17	动画	奇幻	冒险	
+猜火车	1292528	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p453198997.jpg	http://movie.douban.com/subject/1292528/	丹尼·博伊尔	伊万·麦克格雷格	艾文·布莱纳	约翰尼·李·米勒	1996-02-23	剧情	犯罪	
+东邪西毒	1292328	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p1982176012.jpg	http://movie.douban.com/subject/1292328/	王家卫	张国荣	张曼玉	梁朝伟	1994-09-17	剧情	动作	爱情	武侠	古装	
+断背山	1418834	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p513535588.jpg	http://movie.douban.com/subject/1418834/	李安	希斯·莱杰	杰克·吉伦哈尔	米歇尔·威廉姆斯	2005-09-02	剧情	爱情	同性	家庭	
+穿越时空的少女	1937946	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2079334286.jpg	http://movie.douban.com/subject/1937946/	细田守	仲里依纱	石田卓也	板仓光隆	2006-07-15	剧情	爱情	科幻	动画	
+贫民窟的百万富翁	2209573	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p470476887.jpg	http://movie.douban.com/subject/2209573/	丹尼·博伊尔	戴夫·帕特尔	芙蕾达·平托	亚尼·卡普	2009-03-26	剧情	爱情	
+雨人	1291870	8.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p942376281.jpg	http://movie.douban.com/subject/1291870/	巴瑞·莱文森	达斯汀·霍夫曼	汤姆·克鲁斯	瓦莱莉·高利诺	1988-12-16	剧情	
+魂断蓝桥	1293964	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2180990078.jpg	http://movie.douban.com/subject/1293964/	茂文·勒鲁瓦	费雯·丽	罗伯特·泰勒	露塞尔·沃特森	1940-05-17	剧情	爱情	战争	
+七武士	1295399	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p647099823.jpg	http://movie.douban.com/subject/1295399/	黑泽明	三船敏郎	志村乔	稻叶义男	1954-04-26	剧情	动作	冒险	
+记忆碎片	1304447	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p641688453.jpg	http://movie.douban.com/subject/1304447/	克里斯托弗·诺兰	盖·皮尔斯	凯瑞-安·莫斯	乔·潘托里亚诺	2000-09-05	剧情	悬疑	惊悚	犯罪	
+怪兽电力公司	1291579	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p1805127697.jpg	http://movie.douban.com/subject/1291579/	彼特·道格特	约翰·古德曼	比利·克里斯托	玛丽·吉布斯	2001-11-02	喜剧	动画	儿童	奇幻	
+猫鼠游戏	1305487	8.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p453924541.jpg	http://movie.douban.com/subject/1305487/	史蒂文·斯皮尔伯格	莱昂纳多·迪卡普里奥	汤姆·汉克斯	克里斯托弗·沃肯	2002-12-16	剧情	传记	犯罪	
+谍影重重3	1578507	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p792223507.jpg	http://movie.douban.com/subject/1578507/	保罗·格林格拉斯	马特·达蒙	朱丽娅·斯蒂尔斯	大卫·斯特雷泽恩	2007-08-03	动作	悬疑	冒险	
+恋恋笔记本	1309163	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p483604864.jpg	http://movie.douban.com/subject/1309163/	尼克·卡索维茨	瑞恩·高斯林	瑞秋·麦克亚当斯	吉娜·罗兰兹	2004-06-25	剧情	爱情	
+辩护人	21937445	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2158166535.jpg	http://movie.douban.com/subject/21937445/	杨宇硕	宋康昊	吴达洙	金英爱	2013-12-18	剧情	
+倩女幽魂	1297447	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2173069757.jpg	http://movie.douban.com/subject/1297447/	程小东	张国荣	王祖贤	午马	2011-04-30	剧情	爱情	武侠	古装	
+卢旺达饭店	1291822	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2159368352.jpg	http://movie.douban.com/subject/1291822/	特瑞·乔治	唐·钱德尔	苏菲·奥康内多	杰昆·菲尼克斯	2004-09-11	剧情	历史	战争	
+秒速5厘米	2043546	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p982896012.jpg	http://movie.douban.com/subject/2043546/	新海诚	水桥研二	近藤好美	尾上绫华	2007-03-03	剧情	爱情	动画	
+我是山姆	1306861	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p652417775.jpg	http://movie.douban.com/subject/1306861/	杰茜·尼尔森	西恩·潘	达科塔·范宁	米歇尔·菲佛	2001-12-03	剧情	家庭	
+玩具总动员3	1858711	8.8	http://img4.douban.com/view/movie_poster_cover/spst/public/p1283675359.jpg	http://movie.douban.com/subject/1858711/	李·昂克里奇	汤姆·汉克斯	蒂姆·艾伦	琼·库萨克	2010-06-16	喜剧	动画	奇幻	冒险	
+疯狂原始人	1907966	8.8	http://img4.douban.com/view/movie_poster_cover/spst/public/p1867084027.jpg	http://movie.douban.com/subject/1907966/	柯克·德·米科	尼古拉斯·凯奇	瑞恩·雷诺兹	艾玛·斯通	2013-04-20	喜剧	动画	冒险	
+雨中曲	1293460	8.9	http://img4.douban.com/view/movie_poster_cover/spst/public/p2074743958.jpg	http://movie.douban.com/subject/1293460/	斯坦利·多南	吉恩·凯利	唐纳德·奥康纳	黛比·雷诺斯	1952-04-11	喜剧	爱情	歌舞	
+碧海蓝天	1300960	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p455724599.jpg	http://movie.douban.com/subject/1300960/	吕克·贝松	让-马克·巴尔	让·雷诺	罗姗娜·阿奎特	1988-05-11	剧情	爱情	
+人工智能	1302827	8.6	http://img4.douban.com/view/movie_poster_cover/spst/public/p792257137.jpg	http://movie.douban.com/subject/1302827/	史蒂文·斯皮尔伯格	海利·乔·奥斯蒙	弗兰西丝·奥康纳	山姆·洛巴兹	2001-06-26	剧情	科幻	冒险	
+穿条纹睡衣的男孩	3008247	8.8	http://img3.douban.com/view/movie_poster_cover/spst/public/p1473670352.jpg	http://movie.douban.com/subject/3008247/	马克·赫尔曼	阿萨·巴特菲尔德	维拉·法米加	大卫·休里斯	2008-09-12	剧情	战争	
+撞车	1388216	8.6	http://img3.douban.com/view/movie_poster_cover/spst/public/p2075132390.jpg	http://movie.douban.com/subject/1388216/	保罗·哈吉斯	桑德拉·布洛克	唐·钱德尔	马特·狄龙	2004-09-10	剧情	犯罪	
+教父3	1294240	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p2169664351.jpg	http://movie.douban.com/subject/1294240/	弗朗西斯·福特·科波拉	阿尔·帕西诺	黛安·基顿	塔莉娅·夏尔	1990-12-20	剧情	犯罪	
+海盗电台	3007773	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p769608791.jpg	http://movie.douban.com/subject/3007773/	理查德·柯蒂斯	比尔·奈伊	肯尼思·布拉纳	菲利普·塞默·霍夫曼	2009-04-01	剧情	喜剧	音乐	
+香水	1760622	8.4	http://img4.douban.com/view/movie_poster_cover/spst/public/p470006658.jpg	http://movie.douban.com/subject/1760622/	汤姆·提克威	本·卫肖	艾伦·瑞克曼	蕾切儿·哈伍德	2006-09-07	剧情	犯罪	奇幻	
+哈利·波特与魔法石	1295038	8.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p804947166.jpg	http://movie.douban.com/subject/1295038/	克里斯·哥伦布	丹尼尔·雷德克里夫	艾玛·沃森	鲁伯特·格林特	2002-01-26	奇幻	冒险	
+纵横四海	1295409	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p933122297.jpg	http://movie.douban.com/subject/1295409/	吴宇森	周润发	张国荣	钟楚红	1991-02-02	剧情	喜剧	动作	犯罪	
+英雄本色	1297574	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p2157672975.jpg	http://movie.douban.com/subject/1297574/	吴宇森	周润发	狄龙	张国荣	1986-08-02	动作	犯罪	
+傲慢与偏见	1418200	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p452005185.jpg	http://movie.douban.com/subject/1418200/	乔·赖特	凯拉·奈特莉	马修·麦克费登	唐纳德·萨瑟兰	2005-09-16	剧情	爱情	
+黑天鹅	1978709	8.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p719282906.jpg	http://movie.douban.com/subject/1978709/	达伦·阿伦诺夫斯基	娜塔莉·波特曼	米拉·库尼斯	薇诺娜·瑞德	2010-12-17	剧情	惊悚	
+冰川时代	1291578	8.4	http://img4.douban.com/view/movie_poster_cover/spst/public/p1910895719.jpg	http://movie.douban.com/subject/1291578/	卡洛斯·沙尔丹哈	雷·罗马诺	约翰·雷吉扎莫	丹尼斯·利瑞	2002-03-15	喜剧	动画	冒险	
+完美的世界	1300992	9.0	http://img3.douban.com/view/movie_poster_cover/spst/public/p792403691.jpg	http://movie.douban.com/subject/1300992/	克林特·伊斯特伍德	凯文·科斯特纳	劳拉·邓恩	克林特·伊斯特伍德	1993-11-24	剧情	犯罪	
+狩猎	6985810	9.0	http://img4.douban.com/view/movie_poster_cover/spst/public/p1546987967.jpg	http://movie.douban.com/subject/6985810/	托马斯·温特伯格	麦斯·米科尔森	托玛斯·博·拉森	安妮卡·韦德科普	2012-05-20	剧情	
+浪潮	2297265	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p1344888983.jpg	http://movie.douban.com/subject/2297265/	丹尼斯·甘塞尔	约根·沃格尔	詹妮弗·乌尔里希	马克思·雷迈特	2008-03-13	剧情	
+末代皇帝	1293172	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p452088641.jpg	http://movie.douban.com/subject/1293172/	贝纳尔多·贝托鲁奇	尊龙	陈冲	彼得·奥图尔	1987-10-23	剧情	传记	历史	
+杀人回忆	1300299	8.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p480225538.jpg	http://movie.douban.com/subject/1300299/	奉俊昊	宋康昊	金相庆	金雷河	2003-04-25	剧情	悬疑	惊悚	犯罪	
+控方证人	1296141	9.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p1505392928.jpg	http://movie.douban.com/subject/1296141/	比利·怀德	泰隆·鲍华	玛琳·黛德丽	查尔斯·劳顿	1957-12-17	剧情	悬疑	犯罪	
+素媛	21937452	9.0	http://img3.douban.com/view/movie_poster_cover/spst/public/p2118532944.jpg	http://movie.douban.com/subject/21937452/	李濬益	薛景求	严志媛	李来	2013-10-02	剧情	家庭	
+荒野生存	1905462	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p465687407.jpg	http://movie.douban.com/subject/1905462/	西恩·潘	埃米尔·赫斯基	马西娅·盖伊·哈登	威廉·赫特	2007-09-21	剧情	传记	冒险	
+喜宴	1303037	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p2173713676.jpg	http://movie.douban.com/subject/1303037/	李安	赵文瑄	归亚蕾	金素梅	1993-02	剧情	喜剧	爱情	同性	家庭	
+可可西里	1308857	8.6	http://img3.douban.com/view/movie_poster_cover/spst/public/p1159398311.jpg	http://movie.douban.com/subject/1308857/	陆川	多布杰	张磊	亓亮	2004-10-01	剧情	
+追随	1397546	9.0	http://img3.douban.com/view/movie_poster_cover/spst/public/p2074443514.jpg	http://movie.douban.com/subject/1397546/	克里斯托弗·诺兰	杰里米·西奥伯德	亚历克斯·霍	露西·拉塞尔	1998-09-12	悬疑	惊悚	犯罪	
+梦之安魂曲	1292270	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p884936202.jpg	http://movie.douban.com/subject/1292270/	达伦·阿伦诺夫斯基	艾伦·伯斯汀	杰瑞德·莱托	詹妮弗·康纳利	2000-10-27	剧情	
+朗读者	2213597	8.4	http://img4.douban.com/view/movie_poster_cover/spst/public/p1140984198.jpg	http://movie.douban.com/subject/2213597/	史蒂芬·戴德利	凯特·温丝莱特	拉尔夫·费因斯	大卫·克劳斯	2008-12-10	剧情	爱情	
+战争之王	1419936	8.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p453719066.jpg	http://movie.douban.com/subject/1419936/	安德鲁·尼科尔	尼古拉斯·凯奇	伊桑·霍克	杰瑞德·莱托	2005-09-16	剧情	犯罪	
+燕尾蝶	1307793	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p532195562.jpg	http://movie.douban.com/subject/1307793/	岩井俊二	三上博史	恰拉	伊藤步	1996-09-14	剧情	犯罪	
+罗生门	1291879	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p1864872647.jpg	http://movie.douban.com/subject/1291879/	黑泽明	三船敏郎	千秋实	京町子	1950-08-25	剧情	悬疑	犯罪	
+布达佩斯大饭店	11525673	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p2178872593.jpg	http://movie.douban.com/subject/11525673/	韦斯·安德森	拉尔夫·费因斯	托尼·雷沃罗利	艾德里安·布洛迪	2014-02-06	剧情	喜剧	
+一次别离	5964718	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p2189835254.jpg	http://movie.douban.com/subject/5964718/	阿斯哈·法哈蒂	蕾拉·哈塔米	佩曼·莫阿迪	沙哈布·侯赛尼	2012-11-13	剧情	家庭	
+红辣椒	1865703	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p672363704.jpg	http://movie.douban.com/subject/1865703/	今敏	林原惠美	古谷彻	江守彻	2006-09-02	科幻	动画	悬疑	惊悚	
+绿里奇迹	1300374	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p767586451.jpg	http://movie.douban.com/subject/1300374/	弗兰克·德拉邦特	汤姆·汉克斯	大卫·摩斯	迈克·克拉克·邓肯	1999-12-10	剧情	悬疑	犯罪	奇幻	
+勇闯夺命岛	1292728	8.5	http://img3.douban.com/view/movie_poster_cover/spst/public/p636048104.jpg	http://movie.douban.com/subject/1292728/	迈克尔·贝	肖恩·康纳利	尼古拉斯·凯奇	艾德·哈里斯	1996-06-07	动作	冒险	
+卡萨布兰卡	1296753	8.6	http://img4.douban.com/view/movie_poster_cover/spst/public/p1244791866.jpg	http://movie.douban.com/subject/1296753/	迈克尔·柯蒂斯	亨弗莱·鲍嘉	英格丽·褒曼	保罗·亨雷德	1942-11-26	剧情	爱情	战争	
+地球上的星星	2363506	8.8	http://img3.douban.com/view/movie_poster_cover/spst/public/p719262090.jpg	http://movie.douban.com/subject/2363506/	阿米尔·汗	达席尔·萨法瑞	阿米尔·汗	塔奈·切赫达	2007-12-21	剧情	家庭	
+英国病人	1291853	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p453791074.jpg	http://movie.douban.com/subject/1291853/	安东尼·明格拉	拉尔夫·费因斯	克里斯汀·斯科特·托马斯	朱丽叶·比诺什	1996-12-06	剧情	爱情	战争	
+穆赫兰道	1292217	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p792248233.jpg	http://movie.douban.com/subject/1292217/	大卫·林奇	娜奥米·沃茨	劳拉·哈灵	安·米勒	2001-05-16	剧情	悬疑	惊悚	
+哈利·波特与死亡圣器(下)	3011235	8.6	http://img3.douban.com/view/movie_poster_cover/spst/public/p917846733.jpg	http://movie.douban.com/subject/3011235/	大卫·叶茨	丹尼尔·雷德克里夫	艾玛·沃森	鲁伯特·格林特	2011-08-04	剧情	悬疑	奇幻	冒险	
+两小无猜	1308817	8.2	http://img3.douban.com/view/movie_poster_cover/spst/public/p455472580.jpg	http://movie.douban.com/subject/1308817/	杨·塞谬尔	吉约姆·卡内	玛丽昂·歌迪亚	蒂博•费尔哈格	2003-09-17	剧情	喜剧	爱情	
+谍影重重	1304102	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p1597183981.jpg	http://movie.douban.com/subject/1304102/	道格·里曼	马特·达蒙	弗兰卡·波坦特	克里斯·库珀	2002-06-14	动作	悬疑	冒险	
+E.T.	1294638	8.5	http://img3.douban.com/view/movie_poster_cover/spst/public/p984732992.jpg	http://movie.douban.com/subject/1294638/	史蒂文·斯皮尔伯格	亨利·托马斯	迪·沃伦斯	罗伯特·麦克纳夫顿	1982-06-11	剧情	科幻	奇幻	冒险	
+变脸	1292659	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p2173855883.jpg	http://movie.douban.com/subject/1292659/	吴宇森	约翰·特拉沃尔塔	尼古拉斯·凯奇	琼·艾伦	1997-06-27	动作	犯罪	
+惊魂记	1293181	8.8	http://img3.douban.com/view/movie_poster_cover/spst/public/p1021883305.jpg	http://movie.douban.com/subject/1293181/	阿尔弗雷德·希区柯克	珍妮特·利	安东尼·博金斯	维拉·迈尔斯	1960-06-16	悬疑	恐怖	
+曾经	2053515	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p2173720203.jpg	http://movie.douban.com/subject/2053515/	约翰·卡尼	格伦·汉塞德	玛可塔·伊尔格洛娃	Alaistair·Foley	2006-07-15	剧情	爱情	音乐	
+谍影重重2	1308767	8.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p667644866.jpg	http://movie.douban.com/subject/1308767/	保罗·格林格拉斯	马特·达蒙	弗兰卡·波坦特	布莱恩·考克斯	2004-11-14	动作	悬疑	冒险	
+阿飞正传	1305690	8.5	http://img3.douban.com/view/movie_poster_cover/spst/public/p924558512.jpg	http://movie.douban.com/subject/1305690/	王家卫	张国荣	张曼玉	刘嘉玲	1990-12-15	剧情	爱情	犯罪	
+上帝也疯狂	1297478	8.6	http://img4.douban.com/view/movie_poster_cover/spst/public/p2173719647.jpg	http://movie.douban.com/subject/1297478/	加美·尤伊斯	Marius·Weyers	Sandra·Prinsloo	历苏	1980-09-10	喜剧	
+这个男人来自地球	2300586	8.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p513303986.jpg	http://movie.douban.com/subject/2300586/	理查德·沙因克曼	大卫·李·史密斯	托尼·托德	约翰·比灵斯列	2007-11-13	剧情	科幻	
+发条橙	1292233	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p529908155.jpg	http://movie.douban.com/subject/1292233/	斯坦利·库布里克	马尔科姆·麦克道威尔	帕特里克·马基	迈克尔·贝茨	1971-12-19	剧情	科幻	犯罪	
+蓝色大门	1308575	8.3	http://img3.douban.com/view/movie_poster_cover/spst/public/p584822570.jpg	http://movie.douban.com/subject/1308575/	易智言	桂纶镁	陈柏霖	梁又琳	2002-09-27	剧情	爱情	同性	
+巴黎淘气帮	3157605	8.6	http://img4.douban.com/view/movie_poster_cover/spst/public/p465446537.jpg	http://movie.douban.com/subject/3157605/	劳伦·泰拉德	马克西姆·戈达尔	瓦莱丽·勒梅西埃	凯德·麦拉德	2013-02-10	喜剧	家庭	儿童	
+爱·回家	1299361	9.1	http://img3.douban.com/view/movie_poster_cover/spst/public/p2107418134.jpg	http://movie.douban.com/subject/1299361/	李廷香	金艺芬	俞承豪	童孝熙	2002-04-05	剧情	家庭	儿童	
+麦兜故事	1302476	8.5	http://img3.douban.com/view/movie_poster_cover/spst/public/p804938713.jpg	http://movie.douban.com/subject/1302476/	袁建滔	李晋纬	林海峰	吴君如	2001-12-15	剧情	喜剧	动画	
+魔女宅急便	1307811	8.4	http://img4.douban.com/view/movie_poster_cover/spst/public/p1637195618.jpg	http://movie.douban.com/subject/1307811/	宫崎骏	高山南	佐久间玲	山口胜平	1989-07-29	动画	奇幻	冒险	
+爱在暹罗	2365260	8.3	http://img4.douban.com/view/movie_poster_cover/spst/public/p1024585648.jpg	http://movie.douban.com/subject/2365260/	楚克‧萨克瑞科	维特维斯特·海伦亚沃恩酷	马里奥·毛瑞尔	赖拉·邦雅淑	2007-11-22	剧情	爱情	同性	家庭	
+花样年华	1291557	8.3	http://img4.douban.com/view/movie_poster_cover/spst/public/p1910828286.jpg	http://movie.douban.com/subject/1291557/	王家卫	梁朝伟	张曼玉	潘迪华	2000-09-29	剧情	爱情	
+非常嫌疑犯	1292214	8.6	http://img4.douban.com/view/movie_poster_cover/spst/public/p470383576.jpg	http://movie.douban.com/subject/1292214/	布莱恩·辛格	凯文·史派西	史蒂芬·鲍德温	加布里埃尔·伯恩	1995-01-25	剧情	悬疑	惊悚	犯罪	
+与狼共舞	1293764	8.9	http://img4.douban.com/view/movie_poster_cover/spst/public/p499158228.jpg	http://movie.douban.com/subject/1293764/	凯文·科斯特纳	凯文·科斯特纳	玛丽·麦克唐纳	格雷厄姆·格林	1990-11-21	剧情	西部	冒险	
+哪吒闹海	1307315	8.8	http://img4.douban.com/view/movie_poster_cover/spst/public/p2163636038.jpg	http://movie.douban.com/subject/1307315/	严定宪	梁正晖	邱岳峰	毕克	1979-05-19	动画	奇幻	冒险	
+中央车站	1292218	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p976338551.jpg	http://movie.douban.com/subject/1292218/	沃尔特·塞勒斯	费尔兰德·蒙特纳哥	马里利娅·佩拉	文尼西斯·狄·奥利维拉	1998-01-16	剧情	
+唐伯虎点秋香	1306249	8.2	http://img3.douban.com/view/movie_poster_cover/spst/public/p1946455272.jpg	http://movie.douban.com/subject/1306249/	李力持	周星驰	巩俐	陈百祥	1993-07-01	喜剧	爱情	古装	
+黄金三镖客	1401118	9.1	http://img4.douban.com/view/movie_poster_cover/spst/public/p2101693489.jpg	http://movie.douban.com/subject/1401118/	赛尔乔·莱翁内	克林特·伊斯特伍德	埃里·瓦拉赫	李·范·克里夫	1966-12-23	西部	冒险	
+美国丽人	1292062	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p571671715.jpg	http://movie.douban.com/subject/1292062/	萨姆·门德斯	凯文·史派西	安妮特·贝宁	索拉·伯奇	1999-09-08	剧情	家庭	
+终结者2	1291844	8.5	http://img3.douban.com/view/movie_poster_cover/spst/public/p1910909085.jpg	http://movie.douban.com/subject/1291844/	詹姆斯·卡梅隆	阿诺·施瓦辛格	琳达·汉密尔顿	爱德华·福隆	1991-07-03	动作	科幻	
+末路狂花	1291992	8.6	http://img3.douban.com/view/movie_poster_cover/spst/public/p794583044.jpg	http://movie.douban.com/subject/1291992/	雷德利·斯科特	吉娜·戴维斯	苏珊·萨兰登	哈威·凯特尔	1991-05-24	剧情	惊悚	犯罪	
+新龙门客栈	1292287	8.4	http://img4.douban.com/view/movie_poster_cover/spst/public/p1421018669.jpg	http://movie.douban.com/subject/1292287/	李惠民	张曼玉	林青霞	梁家辉	1992-08-27	剧情	动作	武侠	古装	
+夜访吸血鬼	1299327	8.3	http://img3.douban.com/view/movie_poster_cover/spst/public/p1353910572.jpg	http://movie.douban.com/subject/1299327/	尼尔·乔丹	布拉德·皮特	汤姆·克鲁斯	克斯汀·邓斯特	1994-11-11	剧情	惊悚	奇幻	
+暖暖内含光	1308777	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p479565065.jpg	http://movie.douban.com/subject/1308777/	米歇尔·冈瑞	金·凯瑞	凯特·温丝莱特	克斯汀·邓斯特	2004-03-19	剧情	爱情	奇幻	
+勇士	3217169	8.9	http://img4.douban.com/view/movie_poster_cover/spst/public/p1145536386.jpg	http://movie.douban.com/subject/3217169/	加文·欧康诺	汤姆·哈迪	乔尔·埃哲顿	尼克·诺特	2011-09-09	剧情	家庭	运动	
+喜剧之王	1302425	8.2	http://img3.douban.com/view/movie_poster_cover/spst/public/p1043597424.jpg	http://movie.douban.com/subject/1302425/	周星驰	周星驰	张柏芝	莫文蔚	1999-02-13	剧情	喜剧	爱情	
+青蛇	1303394	8.3	http://img3.douban.com/view/movie_poster_cover/spst/public/p584021784.jpg	http://movie.douban.com/subject/1303394/	徐克	张曼玉	王祖贤	赵文卓	1993-11-04	剧情	奇幻	古装	
+7号房的礼物	10777687	8.6	http://img3.douban.com/view/movie_poster_cover/spst/public/p1816276065.jpg	http://movie.douban.com/subject/10777687/	李焕庆	柳承龙	朴信惠	郑镇荣	2013-01-23	剧情	喜剧	家庭	
+黑客帝国3：矩阵革命	1302467	8.4	http://img4.douban.com/view/movie_poster_cover/spst/public/p443461818.jpg	http://movie.douban.com/subject/1302467/	安迪·沃卓斯基	基努·里维斯	劳伦斯·菲什伯恩	凯瑞-安·莫斯	2003-11-06	动作	科幻	
+城市之光	1293908	9.2	http://img3.douban.com/view/movie_poster_cover/spst/public/p2099815842.jpg	http://movie.douban.com/subject/1293908/	查理·卓别林	查理·卓别林	弗吉尼亚·切瑞尔	佛罗伦斯·李	1931-01-30	剧情	喜剧	爱情	
+忠犬八公物语	1959195	9.0	http://img3.douban.com/view/movie_poster_cover/spst/public/p1576418852.jpg	http://movie.douban.com/subject/1959195/	神山征二郎	山本圭	井川比佐志	片桐入	1987-08-01	剧情	
+偷拐抢骗	1301171	8.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p616753227.jpg	http://movie.douban.com/subject/1301171/	盖·里奇	布拉德·皮特	本尼西奥·德尔·托罗	杰森·斯坦森	2000-09-01	喜剧	犯罪	
+恐怖游轮	3011051	8.2	http://img3.douban.com/view/movie_poster_cover/spst/public/p462470694.jpg	http://movie.douban.com/subject/3011051/	克里斯托弗·史密斯	梅利莎·乔治	利亚姆·海姆斯沃斯	迈克尔·多曼	2009-10-16	剧情	悬疑	惊悚	
+初恋这件小事	4739952	8.3	http://img3.douban.com/view/movie_poster_cover/spst/public/p1505312273.jpg	http://movie.douban.com/subject/4739952/	普特鹏·普罗萨卡·那·萨克那卡林	马里奥·毛瑞尔	平采娜·乐维瑟派布恩	苏达拉·布查蓬	2012-06-05	喜剧	爱情	
+源代码	3075287	8.3	http://img3.douban.com/view/movie_poster_cover/spst/public/p988260245.jpg	http://movie.douban.com/subject/3075287/	邓肯·琼斯	杰克·吉伦哈尔	维拉·法米加	米歇尔·莫娜汉	2011-08-30	剧情	动作	科幻	惊悚	犯罪	
+恐怖直播	21360417	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p2016930906.jpg	http://movie.douban.com/subject/21360417/	金秉祐	河正宇	李璟荣	全慧珍	2013-07-31	剧情	悬疑	犯罪	
+遗愿清单	1867345	8.5	http://img3.douban.com/view/movie_poster_cover/spst/public/p708613284.jpg	http://movie.douban.com/subject/1867345/	罗伯·莱纳	杰克·尼科尔森	摩根·弗里曼	西恩·海耶斯	2007-12-25	剧情	喜剧	冒险	
+东京物语	1291568	9.1	http://img4.douban.com/view/movie_poster_cover/spst/public/p2099817226.jpg	http://movie.douban.com/subject/1291568/	小津安二郎	笠智众	原节子	杉村春子	1953-11-03	剧情	家庭	
+无耻混蛋	1438652	8.3	http://img3.douban.com/view/movie_poster_cover/spst/public/p770734475.jpg	http://movie.douban.com/subject/1438652/	昆汀·塔伦蒂诺	布拉德·皮特	梅拉尼·罗兰	克里斯托弗·沃尔兹	2009-08-20	剧情	犯罪	
+跳出我天地	1301169	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p531278288.jpg	http://movie.douban.com/subject/1301169/	史蒂芬·戴德利	杰米·贝尔	朱丽·沃特斯	Gary·Lewis	2000-05-19	剧情	歌舞	家庭	儿童	
+我们俩	1756073	8.6	http://img3.douban.com/view/movie_poster_cover/spst/public/p2173725381.jpg	http://movie.douban.com/subject/1756073/	马俪文	宫哲	金雅琴	罗忠学	2005-10	剧情	
+时空恋旅人	10577869	8.5	http://img3.douban.com/view/movie_poster_cover/spst/public/p2070153774.jpg	http://movie.douban.com/subject/10577869/	理查德·柯蒂斯	多姆纳尔·格利森	瑞秋·麦克亚当斯	比尔·奈伊	2013-06-27	剧情	爱情	奇幻	
+导盲犬小Q	1316572	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p1233612794.jpg	http://movie.douban.com/subject/1316572/	崔洋一	小林薰	椎名桔平	香川照之	2004-03-13	剧情	
+不一样的天空	1301617	8.6	http://img3.douban.com/view/movie_poster_cover/spst/public/p2175712032.jpg	http://movie.douban.com/subject/1301617/	莱塞·霍尔斯道姆	约翰尼·德普	莱昂纳多·迪卡普里奥	朱丽叶特·刘易斯	1993-12-25	剧情	爱情	家庭	
+国王的演讲	4023638	8.3	http://img4.douban.com/view/movie_poster_cover/spst/public/p768879237.jpg	http://movie.douban.com/subject/4023638/	汤姆·霍珀	科林·费尔斯	杰弗里·拉什	海伦娜·伯翰·卡特	2012-02-24	剧情	传记	历史	
+荒岛余生	1298653	8.4	http://img4.douban.com/view/movie_poster_cover/spst/public/p1341248319.jpg	http://movie.douban.com/subject/1298653/	罗伯特·泽米吉斯	汤姆·汉克斯	海伦·亨特	克里斯·诺斯	2000-12-22	剧情	冒险	
+再见列宁	1292055	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p478546260.jpg	http://movie.douban.com/subject/1292055/	沃尔夫冈·贝克	丹尼尔·布鲁赫	凯萨琳·萨斯	楚潘·哈玛托娃	2003-02-09	剧情	家庭	
+寿司之神	6146955	8.8	http://img4.douban.com/view/movie_poster_cover/spst/public/p1528763106.jpg	http://movie.douban.com/subject/6146955/	大卫·贾柏	小野二郎	小野祯一	小野隆	2011-11-08	纪录片	
+牯岭街少年杀人事件	1292329	8.6	http://img4.douban.com/view/movie_poster_cover/spst/public/p848381236.jpg	http://movie.douban.com/subject/1292329/	杨德昌	张震	杨静怡	张国柱	1991-07-27	剧情	犯罪	
+血钻	1428175	8.4	http://img4.douban.com/view/movie_poster_cover/spst/public/p554741987.jpg	http://movie.douban.com/subject/1428175/	爱德华·兹威克	莱昂纳多·迪卡普里奥	詹妮弗·康纳利	杰曼·翰苏	2006-12-08	剧情	冒险	
+角斗士	1293530	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p1601948450.jpg	http://movie.douban.com/subject/1293530/	雷德利·斯科特	罗素·克劳	杰昆·菲尼克斯	康妮·尼尔森	2000-05-05	剧情	动作	历史	冒险	
+我在伊朗长大	1962116	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p1486953897.jpg	http://movie.douban.com/subject/1962116/	文森特·帕兰德	基娅拉·马斯特洛亚尼	凯瑟琳·德纳芙	达尼尔·达黎欧	2007-06-27	剧情	动画	传记	战争	
+大卫·戈尔的一生	1305725	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p2186861098.jpg	http://movie.douban.com/subject/1305725/	艾伦·帕克	凯文·史派西	凯特·温丝莱特	劳拉·琳妮	2003-02-21	剧情	悬疑	犯罪	
+月球	3073124	8.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p449399746.jpg	http://movie.douban.com/subject/3073124/	邓肯·琼斯	山姆·洛克威尔	凯文·史派西	多米妮克·麦克艾丽戈特	2009-07-17	剧情	科幻	悬疑	
+廊桥遗梦	1293929	8.5	http://img4.douban.com/view/movie_poster_cover/spst/public/p616768086.jpg	http://movie.douban.com/subject/1293929/	克林特·伊斯特伍德	克林特·伊斯特伍德	梅丽尔·斯特里普	Annie·Corley	1995-06-02	剧情	爱情	
+莫扎特传	1293399	8.6	http://img4.douban.com/view/movie_poster_cover/spst/public/p595764767.jpg	http://movie.douban.com/subject/1293399/	米洛斯·福尔曼	汤姆·休斯克	F·默里·亚伯拉罕	伊丽莎白·贝里奇	1984-09-19	剧情	音乐	传记	
+疯狂约会美丽都	1291565	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p1910831922.jpg	http://movie.douban.com/subject/1291565/	西维亚·乔迈	Béatrice·Bonifassi	Lina·Boudreault	Michèle·Caucheteux	2003-06-11	喜剧	动画	
+无敌破坏王	6534248	8.7	http://img4.douban.com/view/movie_poster_cover/spst/public/p1735642656.jpg	http://movie.douban.com/subject/6534248/	瑞奇·摩尔	简·林奇	约翰·C·赖利	萨拉·西尔弗曼	2012-11-06	喜剧	动画	冒险	
+未麻的部屋	1395091	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p1351050722.jpg	http://movie.douban.com/subject/1395091/	今敏	岩男润子	松本梨香	辻亲八	1997-07	动画	惊悚	奇幻	
+伴我同行	1292925	8.9	http://img3.douban.com/view/movie_poster_cover/spst/public/p1979379460.jpg	http://movie.douban.com/subject/1292925/	罗伯·莱纳	瑞凡·菲尼克斯	威尔·惠顿	科里·费尔德曼	1986-08-08	剧情	儿童	冒险	
+洛城机密	1292348	8.6	http://img3.douban.com/view/movie_poster_cover/spst/public/p676741125.jpg	http://movie.douban.com/subject/1292348/	柯蒂斯·汉森	凯文·史派西	罗素·克劳	盖·皮尔斯	1997-09-19	剧情	悬疑	惊悚	犯罪	
+千钧一发	1300117	8.7	http://img3.douban.com/view/movie_poster_cover/spst/public/p2195672555.jpg	http://movie.douban.com/subject/1300117/	安德鲁·尼科尔	伊桑·霍克	乌玛·瑟曼	裘德·洛	1997-10-24	剧情	爱情	科幻	惊悚	
+我爱你	5908478	9.0	http://img4.douban.com/view/movie_poster_cover/spst/public/p1075591188.jpg	http://movie.douban.com/subject/5908478/	秋昌民	宋在浩	李顺载	尹秀晶	2011-02-17	剧情	爱情	
+蝙蝠侠：黑暗骑士崛起	3395373	8.5	http://img3.douban.com/view/movie_poster_cover/spst/public/p1706428744.jpg	http://movie.douban.com/subject/3395373/	克里斯托弗·诺兰	克里斯蒂安·贝尔	汤姆·哈迪	安妮·海瑟薇	2012-08-27	剧情	动作	科幻	惊悚	犯罪	
+八月迷情	1844413	8.3	http://img4.douban.com/view/movie_poster_cover/spst/public/p1224816276.jpg	http://movie.douban.com/subject/1844413/	科斯汀·谢里丹	乔纳森·莱斯·梅耶斯	弗莱迪·海默	罗宾·威廉姆斯	2009-01-23	剧情	爱情	音乐	
+假如爱有天意	1304073	8.2	http://img3.douban.com/view/movie_poster_cover/spst/public/p479746811.jpg	http://movie.douban.com/subject/1304073/	郭在容	孙艺珍	曹承佑	赵寅成	2003-01-30	剧情	爱情	
+速度与激情5	4286017	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p898634801.jpg	http://movie.douban.com/subject/4286017/	林诣彬	范·迪塞尔	保罗·沃克	道恩·强森	2011-05-12	剧情	动作	惊悚	犯罪	
+黑鹰坠落	1291824	8.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p1910900710.jpg	http://movie.douban.com/subject/1291824/	雷德利·斯科特	乔什·哈奈特	伊万·麦克格雷格	汤姆·塞兹摩尔	2002-01-18	动作	历史	战争	
+枪火	1300741	8.5	http://img3.douban.com/view/movie_poster_cover/spst/public/p2022241990.jpg	http://movie.douban.com/subject/1300741/	杜琪峰	吴镇宇	任达华	黄秋生	1999-11-19	剧情	动作	犯罪	
+刺猬的优雅	3824274	8.8	http://img3.douban.com/view/movie_poster_cover/spst/public/p489369851.jpg	http://movie.douban.com/subject/3824274/	莫娜·阿查切	乔丝安·巴拉思科	佳朗丝·勒·吉耶米克	伊川东吾	2009-07-03	剧情	
+帝企鹅日记	1369747	8.6	http://img3.douban.com/view/movie_poster_cover/spst/public/p918911014.jpg	http://movie.douban.com/subject/1369747/	吕克·雅克	查尔斯·贝尔林	罗曼娜·波琳热	儒勒·斯楚克	2005-01-26	纪录片	
+疯狂的石头	1862151	8.1	http://img3.douban.com/view/movie_poster_cover/spst/public/p712241453.jpg	http://movie.douban.com/subject/1862151/	宁浩	徐峥	郭涛	刘桦	2006-06-30	喜剧	犯罪	
+小黄人	11624706	8.2	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2252281818.jpg	http://movie.douban.com/subject/11624706/	凯尔·巴尔达	迈克尔·基顿	桑德拉·布洛克	凯蒂·米克松	2015-07-10	喜剧	动画	
+小森林	25814707	9.0	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2215147728.jpg	http://movie.douban.com/subject/25814707/	森淳一	桥本爱	三浦贵大	松冈茉优	2015-02-14	剧情	
+疯狂的麦克斯4：狂暴之路	3592854	8.7	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2236181653.jpg	http://movie.douban.com/subject/3592854/	乔治·米勒	汤姆·哈迪	查理兹·塞隆	尼古拉斯·霍尔特	2015-05-15	动作	科幻	冒险	
+百元之恋	25761178	8.4	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2205471169.jpg	http://movie.douban.com/subject/25761178/	武正晴	安藤樱	新井浩文	稲川実代子	2014-12-20	剧情	喜剧	运动	
+海月姬	25861695	7.3	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2204589689.jpg	http://movie.douban.com/subject/25861695/	川村泰祐	能年玲奈	菅田将晖	长谷川博己	2014-12-27	喜剧	
+女间谍	25752261	8.3	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2222033984.jpg	http://movie.douban.com/subject/25752261/	保罗·费格	梅丽莎·麦卡西	杰森·斯坦森	裘德·洛	2015-06-05	喜剧	动作	犯罪	
+贝利叶一家	25855951	8.3	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2217443924.jpg	http://movie.douban.com/subject/25855951/	艾里克·拉缇戈	露安·艾梅哈	嘉莲·维雅	弗朗索瓦·达密安	2014-12-17	剧情	喜剧	音乐	家庭	
+小羊肖恩	24397586	8.5	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2249261202.jpg	http://movie.douban.com/subject/24397586/	马克·伯顿	贾斯汀·弗莱彻	约翰·斯帕克斯	欧米德·吉亚李利	2015-07-17	喜剧	动画	冒险	
+金衣女人	10792633	7.8	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2231410371.jpg	http://movie.douban.com/subject/10792633/	西蒙·柯蒂斯	瑞恩·雷诺兹	海伦·米伦	凯蒂·霍尔姆斯	2015-02-09	剧情	传记	历史	战争	
+荒蛮故事	24750126	8.6	http://img6.douban.com/view/movie_poster_cover/ipst/public/p2192834364.jpg	http://movie.douban.com/subject/24750126/	达米安·斯兹弗隆	里卡杜·达林	达里奥·葛兰帝内提	莱昂纳多·斯巴拉格利亚	2014-08-14	剧情	喜剧	犯罪	
+道士下山	24879839	5.6	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2251450614.jpg	http://movie.douban.com/subject/24879839/?from=showing	陈凯歌	王宝强	郭富城	张震	2015-07-03	喜剧	动作	奇幻	冒险	武侠	古装	
+小时代4：灵魂尽头	24847343	3.6	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2250399288.jpg	http://movie.douban.com/subject/24847343/?from=showing	郭敬明	杨幂	郭采洁	陈学冬	2015-07-09	剧情	喜剧	爱情	
+侏罗纪世界	10440138	7.9	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2246217874.jpg	http://movie.douban.com/subject/10440138/?from=showing	科林·特雷沃罗	克里斯·普拉特	布莱丝·达拉斯·霍华德	文森特·多诺费奥	2015-06-10	动作	科幻	冒险	
+横冲直撞好莱坞	25908042	4.9	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2244110255.jpg	http://movie.douban.com/subject/25908042/?from=showing	蒂姆·肯德尔	赵薇	黄晓明	佟大为	2015-06-26	喜剧	动作	冒险	
+我是路人甲	25746375	7.5	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2252471054.jpg	http://movie.douban.com/subject/25746375/?from=showing	尔冬升	万国鹏	王婷	沈凯	2015-07-03	剧情	喜剧	
+张震讲故事之鬼迷心窍	26384363	3.3	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2251719698.jpg	http://movie.douban.com/subject/26384363/?from=showing	徐正超	张翰	张俪	李心艾	2015-07-03	悬疑	惊悚	
+杀破狼2	23788440	7.6	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2246885606.jpg	http://movie.douban.com/subject/23788440/?from=showing	郑保瑞	吴京	托尼·贾	张晋	2015-06-18	剧情	动作	犯罪	
+再次出发之纽约遇见你	6874403	8.4	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2250287733.jpg	http://movie.douban.com/subject/6874403/?from=showing	约翰·卡尼	凯拉·奈特莉	马克·鲁弗洛	詹姆斯·柯登	2015-06-26	喜剧	爱情	音乐	
+汽车人总动员	26416155	2.1	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2253581205.jpg	http://movie.douban.com/subject/26416155/?from=showing	卓建荣	刘馨萱	沈桦	袁文革	2015-07-03	喜剧	动画	冒险	
+三只小猪与神灯	26277352	4.5	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2250630126.jpg	http://movie.douban.com/subject/26277352/?from=showing	刘炜	洪海天	李晔	王燕华	2015-06-27	喜剧	动画	冒险	
+罪恶赎金	3439317	5.4	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2252115614.jpg	http://movie.douban.com/subject/3439317/?from=showing	亨里克·鲁本·甘茨	詹姆斯·弗兰科	凯特·哈德森	奥玛·赛	2015-07-03	动作	惊悚	犯罪	
+分歧者2：绝地反击	25794212	6.0	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2246877123.jpg	http://movie.douban.com/subject/25794212/?from=showing	罗伯特·斯文克	谢琳·伍德蕾	提奥·詹姆斯	凯特·温丝莱特	2015-06-19	动作	爱情	科幻	冒险	
+西游新传2：真心话大冒险	26410746	4.0	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2252469101.jpg	http://movie.douban.com/subject/26410746/?from=showing	刘畅	黎筱濛	李佳怡	林强	2015-07-03	喜剧	动画	儿童	冒险	
+小猪班纳大电影之梦想大“帽”险	26392182	3.0	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2246441521.jpg	http://movie.douban.com/subject/26392182/?from=showing	张明	范楚绒	胡谦	符冲	2015-06-27	动画	冒险	
+少年班	26219652	6.0	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2247339285.jpg	http://movie.douban.com/subject/26219652/?from=showing	肖洋	孙红雷	周冬雨	董子健	2015-06-19	剧情	喜剧	
+听说	3824672	8.1	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2250788664.jpg	http://movie.douban.com/subject/3824672/?from=showing	郑芬芬	彭于晏	陈意涵	陈妍希	2015-06-26	剧情	爱情	家庭	
+旋风九日	25972353	7.3	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2234584539.jpg	http://movie.douban.com/subject/25972353/?from=showing	傅红星	邓小平	吉米·卡特	亨利·基辛格	2015-05-15	纪录片	传记	历史	
+我的男友和狗	24851526	5.7	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2247497649.jpg	http://movie.douban.com/subject/24851526/?from=showing	陈慧翎	张钧甯	何润东	赖佩霞	2015-06-19	爱情	
+默守那份情	26424787	2.8	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2252214008.jpg	http://movie.douban.com/subject/26424787/?from=showing	曾剑峰	毛孩	黄奕	贺刚	2015-07-01	剧情	爱情	
+简单爱	25926252	2.5	http://img6.douban.com/view/movie_poster_cover/mpst/public/p2251860973.jpg	http://movie.douban.com/subject/25926252/?from=showing	崔龄燕	许绍洋	张琳	谢雨芩	2015-07-03	爱情	
+敢死队	3279080	6.7	http://img6.douban.com/view/movie_poster_cover/mpst/public/p547574189.jpg	http://movie.douban.com/subject/3279080/?from=showing	西尔维斯特·史泰龙	西尔维斯特·史泰龙	杰森·斯坦森	李连杰	2010-08-20	动作	惊悚	冒险	
+石榴坡的复仇	25823113	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2189052854.jpg	http://movie.douban.com/subject/25823113/	若松节朗	中井贵一	阿部宽	广末凉子	2014-09-20	剧情	古装	
+奸臣	25823840	6.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2235239810.jpg	http://movie.douban.com/subject/25823840/	闵奎东	朱智勋	金康宇	林智妍	2015-05-21	剧情	情色	古装	
+红与白的搜查档案	25949984	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2208636269.jpg	http://movie.douban.com/subject/25949984/	佐藤東弥	藤原龙也	岡田将生	志田未来	2015-01-10	惊悚	
+最长的旅程	21442760	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2218476421.jpg	http://movie.douban.com/subject/21442760/	小乔治·提尔曼	布丽特·罗伯森	斯科特·伊斯特伍德	阿伦·阿尔达	2015-04-10	剧情	爱情	
+小森林	25814705	8.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2221319641.jpg	http://movie.douban.com/subject/25814705/	森淳一	桥本爱	三浦贵大	松冈茉优	2014-08-30	剧情	
+军中乐园	20515070	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2202839758.jpg	http://movie.douban.com/subject/20515070/	钮承泽	阮经天	万茜	陈意涵	2014-09-05	剧情	爱情	历史	
+机械姬	4160540	7.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2208934451.jpg	http://movie.douban.com/subject/4160540/	亚历克斯·加兰	奥斯卡·伊萨克	多姆纳尔·格利森	艾丽西亚·维坎德	2015-01-21	剧情	科幻	
+念念	25718082	7.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2239530046.jpg	http://movie.douban.com/subject/25718082/	张艾嘉	梁洛施	张孝全	柯宇纶	2015-04-30	剧情	爱情	家庭	
+我的个神啊	10741643	8.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2243803873.jpg	http://movie.douban.com/subject/10741643/	拉吉库马尔·希拉尼	阿米尔·汗	安努舒卡·莎玛	桑杰·达特	2015-05-22	喜剧	奇幻	
+寒枝雀静	6521506	7.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2209088482.jpg	http://movie.douban.com/subject/6521506/	罗伊·安德森	Holger·Andersson	Nils·Westblom	Charlotta·Larsson	2014-09-02	剧情	喜剧	
+时光尽头的恋人	6039412	6.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2234995897.jpg	http://movie.douban.com/subject/6039412/	李·杜兰·克里格	布蕾克·莱弗利	米契尔·哈思曼	哈里森·福特	2015-04-24	剧情	爱情	奇幻	
+江南1970	24307637	6.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2221878905.jpg	http://movie.douban.com/subject/24307637/	庾河	李敏镐	金来沅	郑镇荣	2015-01-21	剧情	动作	
+潜伏3	25728008	5.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2233079790.jpg	http://movie.douban.com/subject/25728008/	雷·沃纳尔	林·沙烨	德蒙特·莫罗尼	斯戴芬妮·斯考特	2015-06-05	恐怖	
+赤道	24987018	5.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2238375159.jpg	http://movie.douban.com/subject/24987018/	梁乐民	张学友	张家辉	余文乐	2015-04-30	剧情	动作	悬疑	犯罪	
+西部慢调	25731554	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2231094082.jpg	http://movie.douban.com/subject/25731554/	约翰·麦卡伦	本·门德尔森	迈克尔·法斯宾德	罗伊·麦克凯恩	2015-01-24	动作	西部	
+涉外大饭店2	25809101	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2225230659.jpg	http://movie.douban.com/subject/25809101/	约翰·麦登	比尔·奈伊	玛吉·史密斯	朱迪·丹奇	2015-02-26	剧情	喜剧	
+丹尼·科林斯	10440069	7.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2210994239.jpg	http://movie.douban.com/subject/10440069/	丹·福格尔曼	阿尔·帕西诺	梅丽莎·贝努瓦	詹妮弗·加纳	2015-03-20	剧情	喜剧	音乐	
+天将雄师	25823833	6.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224484447.jpg	http://movie.douban.com/subject/25823833/	李仁港	成龙	约翰·库萨克	艾德里安·布洛迪	2015-02-19	动作	战争	古装	
+灰姑娘	6875263	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2231066272.jpg	http://movie.douban.com/subject/6875263/	肯尼思·布拉纳	莉莉·詹姆斯	理查德·麦登	凯特·布兰切特	2015-03-13	爱情	奇幻	冒险	
+王牌特工：特工学院	24405378	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2231932406.jpg	http://movie.douban.com/subject/24405378/	马修·沃恩	塔伦·埃格顿	科林·费尔斯	塞缪尔·杰克逊	2015-03-27	喜剧	动作	犯罪	冒险	
+国际市场	21937450	8.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2210568759.jpg	http://movie.douban.com/subject/21937450/	尹齐均	黄政民	金允珍	吴达洙	2014-12-17	剧情	家庭	
+0.5毫米	21767183	8.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2192573387.jpg	http://movie.douban.com/subject/21767183/	安藤桃子	安藤樱	织本顺吉	木内みどり	2014-11-08	剧情	
+模仿游戏	10463953	8.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2255040492.jpg	http://movie.douban.com/subject/10463953/	莫滕·泰杜姆	本尼迪克特·康伯巴奇	凯拉·奈特莉	马修·古迪	2015-07-21	剧情	同性	传记	战争	
+隐秘的诱惑	25790755	5.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2239557503.jpg	http://movie.douban.com/subject/25790755/	尹宰久	林秀晶	柳演锡	李璟荣	2015-06-04	爱情	犯罪	
+冲锋车	25811357	6.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2231140287.jpg	http://movie.douban.com/subject/25811357/	刘浩良	吴镇宇	任达华	古巨基	2015-04-03	动作	犯罪	
+海洋之歌	11584019	8.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2233260210.jpg	http://movie.douban.com/subject/11584019/	汤姆·摩尔	大卫·罗尔	布莱丹·格里森	丽莎·汉尼根	2014-09-06	剧情	动画	奇幻	
+何以笙箫默	26259634	3.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2239863767.jpg	http://movie.douban.com/subject/26259634/	杨文军	黄晓明	杨幂	佟大为	2015-04-30	爱情	
+1944	26356488	8.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2235658882.jpg	http://movie.douban.com/subject/26356488/	Elmo·Nüganen	Märt·Pius	Maiken·Schmidt	Kristjan·Üksküla	2015-02-25	剧情	战争	
+夜行者	25750969	8.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2203693875.jpg	http://movie.douban.com/subject/25750969/	丹·吉尔罗伊	杰克·吉伦哈尔	里兹·阿迈德	蕾妮·罗素	2014-09-05	惊悚	犯罪	
+依然爱丽丝	25815008	7.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2208286457.jpg	http://movie.douban.com/subject/25815008/	理查德·格雷泽	朱丽安·摩尔	凯特·波茨沃斯	肖恩·麦克雷	2014-09-08	剧情	
+它在身后	25870483	6.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2232895531.jpg	http://movie.douban.com/subject/25870483/	大卫·罗伯特·米切尔	麦卡·梦露	凯尔·吉克瑞斯特	Daniel·Zovatto	2015-03-27	悬疑	恐怖	
+万物理论	24815950	7.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2210832820.jpg	http://movie.douban.com/subject/24815950/	詹姆斯·马什	埃迪·雷德梅恩	费莉西蒂·琼斯	艾米丽·沃森	2014-09-07	剧情	爱情	传记	
+鸟人	20438962	7.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2203838902.jpg	http://movie.douban.com/subject/20438962/	亚利桑德罗·冈萨雷斯·伊纳里多	迈克尔·基顿	爱德华·诺顿	艾玛·斯通	2014-08-27	剧情	奇幻	
+战狼	24753810	7.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2225660666.jpg	http://movie.douban.com/subject/24753810/	吴京	吴京	余男	斯科特·阿金斯	2015-04-02	动作	战争	
+无人引航	10754780	8.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2194962310.jpg	http://movie.douban.com/subject/10754780/	威廉姆·H·梅西	比利·克鲁德普	安东·叶利钦	菲丽西提·霍夫曼	2014-10-17	剧情	音乐	
+美国狙击手	21263666	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2203481530.jpg	http://movie.douban.com/subject/21263666/	克林特·伊斯特伍德	布莱德利·库珀	西耶娜·米勒	凯尔·加尔纳	2014-11-11	动作	传记	战争	
+麦克法兰	11520649	8.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2222667000.jpg	http://movie.douban.com/subject/11520649/	妮琪·卡罗	凯文·科斯特纳	Ramiro·Rodriguez	卡洛斯·普拉斯	2015-02-20	剧情	运动	
+疯狂外星人	10827341	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2235609577.jpg	http://movie.douban.com/subject/10827341/	蒂姆·约翰逊	吉姆·帕森斯	蕾哈娜	史蒂夫·马丁	2015-04-24	喜剧	科幻	动画	冒险	
+寄生兽	25774050	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2225188257.jpg	http://movie.douban.com/subject/25774050/	山崎贵	染谷将太	深津绘里	桥本爱	2014-11-29	科幻	恐怖	
+超能查派	6846893	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2240110789.jpg	http://movie.douban.com/subject/6846893/	尼尔·布洛姆坎普	休·杰克曼	西格妮·韦弗	沙尔托·科普雷	2015-05-08	动作	科幻	惊悚	
+左耳	25745752	5.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2238949728.jpg	http://movie.douban.com/subject/25745752/	苏有朋	陈都灵	欧豪	马思纯	2015-04-24	爱情	
+万物生长	25872931	6.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2236052651.jpg	http://movie.douban.com/subject/25872931/	李玉	范冰冰	韩庚	齐溪	2015-04-17	喜剧	爱情	
+咱们结婚吧	26140241	6.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2232079769.jpg	http://movie.douban.com/subject/26140241/	刘江	高圆圆	姜武	李晨	2015-04-02	喜剧	爱情	
+有一个地方只有我们知道	25858759	5.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2223068290.jpg	http://movie.douban.com/subject/25858759/	徐静蕾	吴亦凡	王丽坤	徐静蕾	2015-02-10	爱情	
+重返20岁	25870084	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2216353367.jpg	http://movie.douban.com/subject/25870084/	陈正道	杨子姗	归亚蕾	陈柏霖	2015-01-08	喜剧	爱情	奇幻	
+扑通扑通我的人生	25747028	6.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2230880388.jpg	http://movie.douban.com/subject/25747028/	李在容	宋慧乔	姜东元	曹成穆	2015-03-13	剧情	家庭	
+青春之旅	25845383	6.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2192701612.jpg	http://movie.douban.com/subject/25845383/	三木孝浩	本田翼	东出昌大	新川优爱	2014-12-13	爱情	
+罪恶的编年史	25870679	6.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2237556168.jpg	http://movie.douban.com/subject/25870679/	白云学	孙贤周	马东锡	崔丹尼尔	2015-05-14	惊悚	
+贵族大盗	24872023	5.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2233840624.jpg	http://movie.douban.com/subject/24872023/	大卫·凯普	约翰尼·德普	格温妮斯·帕特洛	保罗·贝坦尼	2015-04-17	喜剧	动作	
+纸之月	25818615	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2199402761.jpg	http://movie.douban.com/subject/25818615/	吉田大八	宫泽理惠	池松壮亮	大岛优子	2014-11-15	剧情	犯罪	
+雏妓	25834945	6.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2226169113.jpg	http://movie.douban.com/subject/25834945/	邱礼涛	任达华	蔡卓妍	孙佳君	2015-03-05	剧情	
+鬼驱人	3012031	5.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2240786040.jpg	http://movie.douban.com/subject/3012031/	吉尔·克兰	山姆·洛克威尔	罗丝玛丽·德薇特	萨克斯·沙比诺	2015-05-22	惊悚	恐怖	
+去见瀑布	25836152	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2197163315.jpg	http://movie.douban.com/subject/25836152/	冲田修一	根岸遙子	安澤千草	荻野百合子	2014-11-22	剧情	
+海绵宝宝历险记：海绵出水	11808948	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2186978440.jpg	http://movie.douban.com/subject/11808948/	Paul·Tibbitt	安东尼奥·班德拉斯	Eric·Bauza	蒂姆·康威	2015-02-06	喜剧	动画	冒险	
+速度与激情7	23761370	8.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2233706697.jpg	http://movie.douban.com/subject/23761370/	温子仁	范·迪塞尔	保罗·沃克	杰森·斯坦森	2015-04-12	动作	犯罪	
+长寿商会	25919385	7.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2231115344.jpg	http://movie.douban.com/subject/25919385/	姜帝圭	尹汝贞	朴根滢	赵镇雄	2015-04-09	喜剧	爱情	家庭	
+我是女王	25780584	4.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2232301298.jpg	http://movie.douban.com/subject/25780584/	伊能静	宋慧乔	窦骁	陈乔恩	2015-04-15	剧情	爱情	
+10年计划	25757780	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2178797486.jpg	http://movie.douban.com/subject/25757780/	JC·Calciano	Jack·Turner	Michael·Hamilton	Moronai·Kanekoa	2015-06-02	喜剧	同性	
+妈咪	25745651	8.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2204888387.jpg	http://movie.douban.com/subject/25745651/	泽维尔·多兰	安妮·杜尔瓦勒	安托万-奥利弗·波尼安	苏珊娜·克莱蒙	2014-10-08	剧情	家庭	
+木星上行	5154799	5.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2230222544.jpg	http://movie.douban.com/subject/5154799/	安迪·沃卓斯基	查宁·塔图姆	米拉·库尼斯	肖恩·宾	2015-03-06	动作	科幻	冒险	
+第七子：降魔之战	2325873	5.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2219669553.jpg	http://movie.douban.com/subject/2325873/	谢尔盖·波德罗夫	杰夫·布里吉斯	本·巴恩斯	朱丽安·摩尔	2015-01-16	奇幻	冒险	
+飓风营救3	20277632	6.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224368429.jpg	http://movie.douban.com/subject/20277632/	奥利维尔·米加顿	连姆·尼森	福里斯特·惠特克	法米克·詹森	2015-03-20	动作	惊悚	犯罪	
+涉足荒野	21345845	7.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2217481599.jpg	http://movie.douban.com/subject/21345845/	让·马克·瓦雷	瑞茜·威瑟斯彭	盖比·霍夫曼	劳拉·邓恩	2014-12-05	剧情	传记	
+爱你，罗茜	5153254	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2190768432.jpg	http://movie.douban.com/subject/5153254/	克利斯汀·迪特	莉莉·柯林斯	山姆·克拉弗林	塔姆欣·伊格顿	2014-10-22	喜剧	爱情	
+消失的爱人	21318488	8.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2221768894.jpg	http://movie.douban.com/subject/21318488/	大卫·芬奇	本·阿弗莱克	裴淳华	尼尔·帕特里克·哈里斯	2014-09-26	剧情	悬疑	惊悚	犯罪	
+北京纽约	24743709	3.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2230505723.jpg	http://movie.douban.com/subject/24743709/	李晓雨	林志玲	刘烨	理查德·德克勒克	2015-03-06	剧情	爱情	
+狱前教育	25835306	6.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2212607822.jpg	http://movie.douban.com/subject/25835306/	伊坦·柯亨	爱丽森·布里	威尔·法瑞尔	凯文·哈特	2015-03-27	喜剧	
+暗夜逐仇	21977761	6.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2233767512.jpg	http://movie.douban.com/subject/21977761/	佐米·希尔拉	连姆·尼森	乔尔·金纳曼	珍尼希斯·罗德里格兹	2015-03-13	剧情	动作	悬疑	惊悚	犯罪	
+失孤	25835293	6.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2231791943.jpg	http://movie.douban.com/subject/25835293/	彭三源	刘德华	井柏然	吴君如	2015-03-20	剧情	
+要听神明的话	25777512	6.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2207809849.jpg	http://movie.douban.com/subject/25777512/	三池崇史	福士苍汰	山崎纮菜	神木隆之介	2014-10-18	惊悚	恐怖	
+帕丁顿熊	2998373	7.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2230471461.jpg	http://movie.douban.com/subject/2998373/	保罗·金	本·卫肖	妮可·基德曼	休·博内威利	2015-03-05	喜剧	家庭	
+许三观	11540651	7.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2216003356.jpg	http://movie.douban.com/subject/11540651/	河正宇	河正宇	河智苑	尹恩惠	2015-01-14	剧情	家庭	
+真幌站前狂想曲	25798854	7.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2194199028.jpg	http://movie.douban.com/subject/25798854/	大森立嗣	瑛太	松田龙平	高良健吾	2014-10-18	剧情	
+完美音调2	24713882	6.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2240344743.jpg	http://movie.douban.com/subject/24713882/	伊丽莎白·班克斯	安娜·肯德里克	蕾蓓尔·威尔森	海莉·斯坦菲尔德	2015-05-15	喜剧	音乐	
+焦点	20277433	6.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2228702598.jpg	http://movie.douban.com/subject/20277433/	格伦·费卡拉	玛格特·罗比	威尔·史密斯	罗德里格·桑托罗	2015-02-27	剧情	喜剧	犯罪	
+澳门风云2	25858785	5.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224055583.jpg	http://movie.douban.com/subject/25858785/	王晶	周润发	张家辉	刘嘉玲	2015-02-19	喜剧	动作	
+超能陆战队	11026735	8.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224568669.jpg	http://movie.douban.com/subject/11026735/	唐·霍尔	斯科特·安第斯	瑞恩·波特	丹尼尔·海尼	2015-02-28	喜剧	动作	科幻	动画	冒险	
+法官老爹	10546747	7.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2197746452.jpg	http://movie.douban.com/subject/10546747/	大卫·道金	小罗伯特·唐尼	罗伯特·杜瓦尔	维拉·法米加	2014-09-04	剧情	
+复仇者联盟2：奥创纪元	10741834	7.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2237747953.jpg	http://movie.douban.com/subject/10741834/	乔斯·韦登	小罗伯特·唐尼	克里斯·海姆斯沃斯	马克·鲁弗洛	2015-05-12	动作	科幻	奇幻	冒险	
+博物馆奇妙夜3	21349734	7.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2219665256.jpg	http://movie.douban.com/subject/21349734/	肖恩·利维	本·斯蒂勒	罗宾·威廉姆斯	欧文·威尔逊	2015-01-04	喜剧	奇幻	冒险	
+逆转胜	22276795	6.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2198968543.jpg	http://movie.douban.com/subject/22276795/	孔玟燕	温尚翊	黄姵嘉	王识贤	2015	喜剧	
+游客	7155005	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2207561733.jpg	http://movie.douban.com/subject/7155005/	鲁本·奥斯特伦德	约翰内斯·昆科	丽莎·洛文·孔斯利	克里斯托弗·海维尤	2014-08-15	剧情	家庭	
+新女友	25755608	7.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2199678535.jpg	http://movie.douban.com/subject/25755608/	弗朗索瓦·欧容	罗曼·杜里斯	阿奈丝·德穆斯捷	拉斐尔·佩尔索纳	2014-11-05	剧情	悬疑	同性	
+暴疯语	25742299	5.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2232891520.jpg	http://movie.douban.com/subject/25742299/	李光耀	刘青云	黄晓明	方中信	2015-04-03	悬疑	惊悚	
+大象之歌	25920098	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2207138561.jpg	http://movie.douban.com/subject/25920098/	Charles·Binamé	布鲁斯·格林伍德	泽维尔·多兰	凯瑟琳·基纳	2015-02-20	剧情	悬疑	同性	
+霍比特人3：五军之战	2973079	8.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2219406504.jpg	http://movie.douban.com/subject/2973079/	彼得·杰克逊	马丁·弗瑞曼	伊恩·麦克莱恩	理查德·阿米蒂奇	2015-01-23	动作	奇幻	冒险	
+女狙击手	26356495	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2235622548.jpg	http://movie.douban.com/subject/26356495/	Sergeiy·Mokritskiy	Yuliya·Peresild	Evgeniy·Tsyganov	Joan·Blackham	2015-04-02	剧情	爱情	传记	战争	
+二十	25862355	7.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2229383316.jpg	http://movie.douban.com/subject/25862355/	李炳宪	金宇彬	李俊昊	姜河那	2015-03-25	剧情	喜剧	
+暴走神探	25746414	5.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2219749857.jpg	http://movie.douban.com/subject/25746414/	罗卓瑶	阮经天	周冬雨	杨子姗	2015-01-16	喜剧	动作	爱情	悬疑	
+智取威虎山	10807909	7.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2215164906.jpg	http://movie.douban.com/subject/10807909/	徐克	张涵予	梁家辉	林更新	2014-12-23	动作	战争	冒险	
+狼图腾	3993588	7.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2225291257.jpg	http://movie.douban.com/subject/3993588/	让·雅克·阿诺	冯绍峰	窦骁	昂哈妮玛	2015-02-19	剧情	冒险	
+人体蜈蚣3	6858224	3.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2173304231.jpg	http://movie.douban.com/subject/6858224/	汤姆·希克斯	迪特尔·莱瑟	埃里克·罗伯茨	布雷·奥尔森	2015-05-22	恐怖	
+一步之遥	6126442	6.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2210853894.jpg	http://movie.douban.com/subject/6126442/	姜文	姜文	葛优	周韵	2014-12-18	喜剧	爱情	冒险	
+塞尔玛	3089638	7.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2220218254.jpg	http://movie.douban.com/subject/3089638/	艾娃·德约列	大卫·奥伊罗	卡门·艾乔戈	蒂姆·罗斯	2014-12-25	剧情	传记	历史	
+大眼睛	3006769	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2206810559.jpg	http://movie.douban.com/subject/3006769/	蒂姆·波顿	艾米·亚当斯	克里斯托弗·沃尔兹	克里斯滕·里特	2014-12-25	剧情	传记	
+饥饿游戏3：嘲笑鸟(上)	6533054	5.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2222078042.jpg	http://movie.douban.com/subject/6533054/	弗朗西斯·劳伦斯	詹妮弗·劳伦斯	乔什·哈切森	利亚姆·海姆斯沃斯	2015-02-08	动作	科幻	冒险	
+星际穿越	1889243	9.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2206088801.jpg	http://movie.douban.com/subject/1889243/	克里斯托弗·诺兰	马修·麦康纳	安妮·海瑟薇	杰西卡·查斯坦	2014-11-12	剧情	科幻	悬疑	家庭	冒险	
+法老与众神	10793610	6.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2210708091.jpg	http://movie.douban.com/subject/10793610/	雷德利·斯科特	克里斯蒂安·贝尔	乔尔·埃哲顿	本·金斯利	2014-12-12	剧情	动作	冒险	
+杀了我三次	10764850	6.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2197403805.jpg	http://movie.douban.com/subject/10764850/	科里夫·斯丹德斯	沙利文·斯特普尔顿	泰莉莎·帕尔墨	西蒙·佩吉	2014-11-28	惊悚	
+丧家之女	10741865	5.5	http://img6.douban.com/view/photo/thumb/public/p2237081437.jpg	http://movie.douban.com/subject/10741865/	亨利·霍伯森	阿诺·施瓦辛格	阿比盖尔·布蕾斯琳	乔莉·理查德森	2015-05-08	剧情	惊悚	恐怖	
+12金鸭	26271893	5.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2244031573.jpg	http://movie.douban.com/subject/26271893/	邹凯光	吴君如	古天乐	刘浩龙	2015-02-19	喜剧	
+坚不可摧	10548265	6.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2222056402.jpg	http://movie.douban.com/subject/10548265/	安吉丽娜·朱莉	杰克·奥康奈尔	多姆纳尔·格利森	加内特·赫德兰	2015-01-30	剧情	传记	战争	运动	
+百货战警2	25833539	5.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2211243470.jpg	http://movie.douban.com/subject/25833539/	安迪·菲克曼	凯文·詹姆斯	莱妮·罗德里格兹	埃杜瓦多·维拉斯蒂吉	2015-04-17	喜剧	动作	
+隔壁的男孩	25780555	5.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2207057658.jpg	http://movie.douban.com/subject/25780555/	罗伯·科恩	詹妮弗·洛佩兹	克里斯汀·肯诺恩斯	瑞安·古兹曼	2015-01-23	惊悚	
+卧底枪手	20379462	5.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2222193691.jpg	http://movie.douban.com/subject/20379462/	皮埃尔·莫瑞尔	西恩·潘	伊德里斯·艾尔巴	哈维尔·巴登	2015-03-20	剧情	动作	悬疑	惊悚	犯罪	
+圣人文森特	21965464	7.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2204911839.jpg	http://movie.douban.com/subject/21965464/	特奥多尔·梅尔菲	比尔·默瑞	梅丽莎·麦卡西	娜奥米·沃茨	2014-09-05	剧情	喜剧	
+太平轮(上)	3078390	5.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2212075889.jpg	http://movie.douban.com/subject/3078390/	吴宇森	章子怡	金城武	宋慧乔	2014-12-02	剧情	爱情	战争	
+花宵道中	25838216	5.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2193982622.jpg	http://movie.douban.com/subject/25838216/	丰岛圭介	安达祐实	渊上泰史	小篠恵奈	2014-11-08	剧情	爱情	
+性本恶	5432221	6.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2204216560.jpg	http://movie.douban.com/subject/5432221/	保罗·托马斯·安德森	杰昆·菲尼克斯	乔什·布洛林	欧文·威尔逊	2014-10-04	剧情	喜剧	犯罪	
+冲上云霄	7003416	4.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2223365653.jpg	http://movie.douban.com/subject/7003416/	叶伟信	古天乐	郑秀文	吴镇宇	2015-02-19	剧情	爱情	
+黄金时代	10545939	7.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2167320927.jpg	http://movie.douban.com/subject/10545939/	许鞍华	汤唯	冯绍峰	王志文	2014-10-01	剧情	爱情	传记	
+海雾	24722875	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2190930188.jpg	http://movie.douban.com/subject/24722875/	沈成宝	金允石	朴有天	汉艺利	2014-08-13	剧情	惊悚	
+恶魔	6053684	5.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2234055593.jpg	http://movie.douban.com/subject/6053684/	Will·Canon	玛丽亚·贝罗	弗兰克·格里罗	科迪·霍恩	2015-02-12	惊悚	恐怖	
+有种你爱我	24743712	4.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2225669293.jpg	http://movie.douban.com/subject/24743712/	李欣蔓	江一燕	郑恺	于笑	2015-02-06	喜剧	爱情	
+小野寺姐弟	25820655	7.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2195542089.jpg	http://movie.douban.com/subject/25820655/	西田征史	向井理	片桐入	山本美月	2014-10-25	喜剧	家庭	
+十万个冷笑话	25805054	6.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2217523448.jpg	http://movie.douban.com/subject/25805054/	卢恒宇	阿杰	皇贞季	宝木中阳	2014-12-31	喜剧	动画	奇幻	
+魔法黑森林	10546762	5.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2213538065.jpg	http://movie.douban.com/subject/10546762/	罗伯·马歇尔	安娜·肯德里克	克里斯·派恩	约翰尼·德普	2014-12-25	音乐	奇幻	冒险	
+生命之书	20283482	7.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2185408796.jpg	http://movie.douban.com/subject/20283482/	Jorge·R·Gutierrez	迭戈·鲁纳	佐伊·索尔达娜	查宁·塔图姆	2014-10-17	喜剧	爱情	动画	奇幻	冒险	
+匆匆那年	25779218	5.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2212273919.jpg	http://movie.douban.com/subject/25779218/	张一白	彭于晏	倪妮	郑恺	2014-12-05	爱情	
+近距离恋爱	25853073	5.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2207808539.jpg	http://movie.douban.com/subject/25853073/	熊泽尚人	山下智久	小松菜奈	水川麻美	2014-10-11	爱情	
+年鉴计划	23767433	6.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224085970.jpg	http://movie.douban.com/subject/23767433/	Dean·Israelite	约翰尼·韦斯顿	索菲亚·布莱克-德埃利亚	山姆·勒纳	2014-11-13	科幻	惊悚	
+钟馗伏魔：雪妖魔灵	25713420	4.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224452276.jpg	http://movie.douban.com/subject/25713420/	鲍德熹	陈坤	李冰冰	赵文瑄	2015-02-19	动作	爱情	奇幻	
+起死回生	24704130	5.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2247114128.jpg	http://movie.douban.com/subject/24704130/	大卫·贾柏	埃文·彼得斯	奥利维亚·王尔德	唐纳德·格洛弗	2015-02-27	惊悚	
+我们假期做了什么	24695390	7.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2187153902.jpg	http://movie.douban.com/subject/24695390/	安迪·汉密尔顿	大卫·田纳特	裴淳华	比利·康诺利	2014-09-26	剧情	喜剧	
+布拉芙夫人	10508874	5.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2196989429.jpg	http://movie.douban.com/subject/10508874/	任弼星	郑雨盛	李絮	朴晓英	2014-10-02	爱情	惊悚	情色	
+盒子怪	21350559	7.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2195254744.jpg	http://movie.douban.com/subject/21350559/	格雷厄姆·安纳布尔	本·金斯利	艾丽·范宁	西蒙·佩吉	2014-08-31	剧情	动画	儿童	奇幻	
+沼泽地	25892603	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2193145198.jpg	http://movie.douban.com/subject/25892603/	阿尔伯特·罗德里格斯	劳尔·阿雷瓦罗	哈维尔·古铁雷斯	安东尼奥·德拉·托雷	2014-09-26	剧情	悬疑	惊悚	犯罪	
+至暴之年	24742719	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2213497829.jpg	http://movie.douban.com/subject/24742719/	J·C·尚多尔	奥斯卡·伊萨克	杰西卡·查斯坦	大卫·奥伊罗	2014-11-06	剧情	动作	惊悚	犯罪	
+定制伴郎	3317370	7.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2212202680.jpg	http://movie.douban.com/subject/3317370/	杰里米·加尔利	凯莉·库柯-斯威汀	阿兰·里奇森	乔什·盖德	2015-01-06	喜剧	
+勃艮第公爵	20453001	5.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2164086501.jpg	http://movie.douban.com/subject/20453001/	彼得·斯崔克兰德	西德斯·巴比特·科努德森	Chiara·DAnna	Eugenia·Caruso	2015-02-20	剧情	
+真实	19962556	7.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2227378009.jpg	http://movie.douban.com/subject/19962556/	昆汀·杜飞	阿兰·夏巴	乔纳森·兰伯特	艾洛迪·布歇	2014-08-28	喜剧	
+亲爱的	25798222	8.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2199507156.jpg	http://movie.douban.com/subject/25798222/	陈可辛	赵薇	黄渤	佟大为	2014-09-25	剧情	家庭	
+大喜临门	26280561	5.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2230150006.jpg	http://movie.douban.com/subject/26280561/	黄朝亮	猪哥亮	林心如	李东学	2015-03-06	喜剧	
+阁楼	6516595	6.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2215656160.jpg	http://movie.douban.com/subject/6516595/	艾瑞克·范·洛依	詹姆斯·麦斯登	温特沃斯·米勒	罗娜·迈特拉	2014-10-15	惊悚	
+伸冤人	3012013	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2201052935.jpg	http://movie.douban.com/subject/3012013/	安东尼·福奎阿	丹泽尔·华盛顿	马尔顿·索克斯	科洛·莫瑞兹	2014-09-26	动作	惊悚	犯罪	
+高手们	25819726	6.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2215157469.jpg	http://movie.douban.com/subject/25819726/	金洪宣	金宇彬	李玹雨	高昌锡	2015	动作	犯罪	
+青春誓约	10756517	6.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2240423839.jpg	http://movie.douban.com/subject/10756517/	James·Kent	基特·哈灵顿	科林·摩根	艾丽西亚·维坎德	2015-01-16	剧情	传记	历史	战争	
+曼戈霍恩	24711890	6.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2198557046.jpg	http://movie.douban.com/subject/24711890/	大卫·戈登·格林	阿尔·帕西诺	霍利·亨特	哈莫尼·科林	2014-08-30	剧情	
+罪恶之城2	1428055	6.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2193680612.jpg	http://movie.douban.com/subject/1428055/	罗伯特·罗德里格兹	米基·洛克	杰西卡·阿尔芭	乔什·布洛林	2014-08-22	动作	惊悚	犯罪	
+自由之丘	10796578	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2193382662.jpg	http://movie.douban.com/subject/10796578/	洪尚秀	加濑亮	文素丽	徐英华	2014-09-04	剧情	
+神在巴厘岛	22419013	5.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2206641200.jpg	http://movie.douban.com/subject/22419013/	李闘士男	堤真一	尾野真千子	ナオト・インティライミ	2015-01-17	剧情	喜剧	
+蛋糕	25836143	6.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2237827063.jpg	http://movie.douban.com/subject/25836143/	丹尼尔·巴尔兹	詹妮弗·安妮斯顿	安娜·肯德里克	布丽特·罗伯森	2014-09-08	剧情	
+在我入睡前	10555085	6.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p1972569462.jpg	http://movie.douban.com/subject/10555085/	罗温·乔夫	妮可·基德曼	科林·费尔斯	马克·斯特朗	2014-09-05	悬疑	惊悚	
+骇客交锋	24530939	3.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2208551645.jpg	http://movie.douban.com/subject/24530939/	迈克尔·曼	克里斯·海姆斯沃斯	汤唯	王力宏	2015-01-16	剧情	动作	悬疑	惊悚	犯罪	
+狂怒	23331914	7.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2209858994.jpg	http://movie.douban.com/subject/23331914/	大卫·阿耶	布拉德·皮特	希亚·拉博夫	罗根·勒曼	2014-11-21	剧情	动作	战争	
+爸爸的假期	25908302	4.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224242410.jpg	http://movie.douban.com/subject/25908302/	王岳伦	郭涛	林志颖	张亮	2015-02-19	喜剧	家庭	
+我很好，谢谢，我爱你	26263504	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2254428578.jpg	http://movie.douban.com/subject/26263504/	梅兹·塔拉	Sunny·Suwanmethanon	波莉雀娅·彭娜妮可	Puttachat·Pongsuchat	2014-12-10	喜剧	爱情	
+一万年以后	4154632	5.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2234972965.jpg	http://movie.douban.com/subject/4154632/	易立	珠玛	亚拉亚姆	易立	2015-03-27	动作	动画	奇幻	
+冰峰游戏	24697538	5.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2230491309.jpg	http://movie.douban.com/subject/24697538/	贾马里·赫兰德	塞缪尔·杰克逊	雷·史蒂文森	吉姆·布劳德本特	2014-09-05	动作	冒险	
+偷狗的完美方法	25834457	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2214375972.jpg	http://movie.douban.com/subject/25834457/	金成浩	金惠子	李来	崔民秀	2014-12-31	剧情	家庭	
+浪客剑心：传说的完结篇	24845116	7.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2194586665.jpg	http://movie.douban.com/subject/24845116/	大友启史	佐藤健	武井咲	伊势谷友介	2014-09-13	剧情	动作	
+疾速追杀	25798131	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2210801408.jpg	http://movie.douban.com/subject/25798131/	大卫·里奇	基努·里维斯	阿德琳妮·帕里奇	布丽姬·穆娜	2014-10-24	动作	惊悚	
+寄生兽：完结篇	25774051	7.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2232822577.jpg	http://movie.douban.com/subject/25774051/	山崎贵	染谷将太	深津绘里	阿部隆史	2015-04-25	科幻	恐怖	
+微爱之渐入佳境	24751757	4.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2213796763.jpg	http://movie.douban.com/subject/24751757/	顾长卫	杨颖	陈赫	张鲁一	2014-12-24	喜剧	爱情	
+平行宇宙	26356473	6.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2237498603.jpg	http://movie.douban.com/subject/26356473/	Christopher·Leone	杰西卡·罗德	康斯坦斯·吴	戴维·杰	2015-03-01	动作	科幻	
+麦兜我和我妈妈	25884416	8.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2200039289.jpg	http://movie.douban.com/subject/25884416/	谢立文	黄磊	吴君如	张正中	2014-10-01	喜剧	动画	家庭	
+朝我心脏开枪	25856577	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2221281086.jpg	http://movie.douban.com/subject/25856577/	文在容	吕珍九	李民基	刘五性	2015-01-28	剧情	
+一代宗师	3821067	7.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2217557172.jpg	http://movie.douban.com/subject/3821067/	王家卫	梁朝伟	章子怡	张震	2015-01-08	剧情	动作	传记	
+鞋匠人生	25788954	6.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2229417955.jpg	http://movie.douban.com/subject/25788954/	托马斯·麦卡锡	亚当·桑德勒	史蒂夫·布西密	达斯汀·霍夫曼	2014-09-11	剧情	喜剧	奇幻	
+移动迷宫	21349345	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2201485029.jpg	http://movie.douban.com/subject/21349345/	韦斯·鲍尔	迪伦·欧布莱恩	阿梅尔·艾米恩	李基弘·Ki·Hong·Lee	2014-10-28	动作	科幻	
+丑女也有春天	24325906	6.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224358403.jpg	http://movie.douban.com/subject/24325906/	Ari·Sandel	梅·惠特曼	罗比·阿美尔	贝拉·索恩	2015-02-20	喜剧	
+撒娇女人最好命	4881607	6.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2213388572.jpg	http://movie.douban.com/subject/4881607/	彭浩翔	周迅	黄晓明	隋棠	2014-11-28	喜剧	爱情	
+世纪审判	26088329	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2222477444.jpg	http://movie.douban.com/subject/26088329/	保罗·安德鲁·威廉姆斯	马丁·弗瑞曼	安东尼·拉帕格利亚	丽贝卡·弗朗特	2015-01-20	剧情	历史	
+马达加斯加的企鹅	11810348	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2208592166.jpg	http://movie.douban.com/subject/11810348/	埃里克·达尼尔	汤姆·麦格拉思	克里斯·米勒	克里斯多夫·奈茨	2014-11-14	喜剧	动画	冒险	
+人艰不拆	26036657	7.6	http://img6.douban.com/view/photo/thumb/public/p2206536736.jpg	http://movie.douban.com/subject/26036657/	瑞卡多·米拉尼	雷欧·波瓦	宝拉·柯特莱西	马可·波西	2014-11-27	喜剧	同性	
+蜩之记	21937456	7.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2180357888.jpg	http://movie.douban.com/subject/21937456/	小泉尧史	役所广司	冈田准一	堀北真希	2014-10-04	剧情	古装	
+等一个人咖啡	25753166	5.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2204562870.jpg	http://movie.douban.com/subject/25753166/	江金霖	宋芸桦	布鲁斯	赖雅妍	2014-10-17	喜剧	爱情	
+男人不可以穷	25824741	6.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2216942715.jpg	http://movie.douban.com/subject/25824741/	钟澍佳	黄宗泽	陈伟霆	谢天华	2014-12-24	剧情	喜剧	
+欢迎来到我的世界	24705685	6.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2227535412.jpg	http://movie.douban.com/subject/24705685/	Shira·Piven	克里斯汀·韦格	琳达·卡德里尼	詹姆斯·麦斯登	2014-09-05	剧情	喜剧	
+神探驾到	26263437	4.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2221880001.jpg	http://movie.douban.com/subject/26263437/	黄百鸣	古天乐	张翰	曾志伟	2015-02-06	喜剧	爱情	悬疑	奇幻	
+一路惊喜	25880244	5.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2223445941.jpg	http://movie.douban.com/subject/25880244/	金依萌	郭采洁	萧敬腾	赵丽颖	2015-02-06	喜剧	爱情	家庭	
+中国城	25890078	6.1	http://img6.douban.com/view/photo/thumb/public/p2239933990.jpg	http://movie.douban.com/subject/25890078/	Han·Jun·hee	金惠秀	金高恩	高庚杓	2015-04-29	剧情	
+点对点	25724870	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2235837638.jpg	http://movie.douban.com/subject/25724870/	黄浩然	陈豪	蒙亭宜	林子聪	2014-10-30	剧情	
+鲁邦三世	10543692	6.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2185434060.jpg	http://movie.douban.com/subject/10543692/	北村龙平	小栗旬	玉山铁二	绫野刚	2014-08-30	动作	
+不能说的夏天	25743833	6.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2206597790.jpg	http://movie.douban.com/subject/25743833/	王维明	徐若瑄	郭采洁	贾静雯	2014-10-24	剧情	
+老千2：神之手	10877413	6.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2195672548.jpg	http://movie.douban.com/subject/10877413/	姜炯哲	崔胜铉	申世京	金允石	2014-09-03	剧情	犯罪	
+戴维克罗的恋爱和魔法	25799040	6.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2199418810.jpg	http://movie.douban.com/subject/25799040/	犬童一心	相叶雅纪	荣仓奈奈	韩孝珠	2014-11-22	爱情	
+最后的骑士	20388974	5.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2230783816.jpg	http://movie.douban.com/subject/20388974/	纪里谷和明	克里夫·欧文	摩根·弗里曼	安圣基	2015-04-03	动作	冒险	
+花葬	25741337	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2227676101.jpg	http://movie.douban.com/subject/25741337/	林权泽	安圣基	金圭丽	金浩贞	2014-09-03	剧情	
+幸存者	25800699	5.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2237331098.jpg	http://movie.douban.com/subject/25800699/	詹姆斯·麦克特格	米拉·乔沃维奇	皮尔斯·布鲁斯南	迪伦·麦克德莫特	2015-05-29	动作	惊悚	
+在我消失前	24885205	7.3	http://img6.douban.com/view/photo/thumb/public/p2208081193.jpg	http://movie.douban.com/subject/24885205/	肖恩·克里斯汀森	肖恩·克里斯汀森	法提玛·普塔塞克	埃米·罗森	2014-08-28	剧情	
+我的早更女友	25834473	5.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2214812972.jpg	http://movie.douban.com/subject/25834473/	郭在容	周迅	佟大为	钟汉良	2014-12-12	喜剧	爱情	
+我的爱我的新娘	25827270	6.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2199061178.jpg	http://movie.douban.com/subject/25827270/	林赞相	曹正锡	申敏儿	尹晶喜	2014-10-08	喜剧	爱情	
+爱在初春惊变时	25941964	6.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2233763958.jpg	http://movie.douban.com/subject/25941964/	贾斯汀·本森	卢·泰勒·普奇	Nadia·Hilker	Francesco·Carnelutti	2015-03-20	爱情	科幻	恐怖	
+垃圾男孩	7059561	7.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2196446497.jpg	http://movie.douban.com/subject/7059561/	史蒂芬·戴德利	Rickson·Tevez	Eduardo·Luis	Gabriel·Weinstein	2014-10-09	喜剧	犯罪	冒险	
+机动战士高达	19897541	9.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2212678557.jpg	http://movie.douban.com/subject/19897541/	安彦良和	田中真弓	潘惠美	池田秀一	2015-02-28	剧情	动画	
+永远十六岁	20278806	6.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2196308777.jpg	http://movie.douban.com/subject/20278806/	琳·谢尔顿	凯拉·奈特莉	科洛·莫瑞兹	山姆·洛克威尔	2014-09-26	喜剧	
+如此美好	25843352	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2220697023.jpg	http://movie.douban.com/subject/25843352/	金炫锡	金允石	郑宇	韩孝珠	2015-02-05	喜剧	爱情	
+寻找幸福的赫克托	5327400	6.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2188328689.jpg	http://movie.douban.com/subject/5327400/	彼德·切尔瑟姆	西蒙·佩吉	裴淳华	Tracy-Ann·Oberman	2014-08-14	剧情	喜剧	冒险	
+旧情	25790164	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2202240591.jpg	http://movie.douban.com/subject/25790164/	平川雄一朗	冈田将生	广末凉子	木南晴夏	2014-11-22	剧情	
+仲夏夜魔法	26258752	7.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2217439993.jpg	http://movie.douban.com/subject/26258752/	嘉里·瑞德斯托姆	克里斯汀·肯诺恩斯	埃文·蕾切尔·伍德	彼得·斯特曼	2015-01-23	动画	歌舞	家庭	奇幻	
+占水师	25749871	6.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2214814834.jpg	http://movie.douban.com/subject/25749871/	罗素·克劳	罗素·克劳	欧嘉·柯瑞兰寇	伊尔玛兹·艾多甘	2014-12-26	剧情	战争	
+X射线营地	24743119	7.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2196486172.jpg	http://movie.douban.com/subject/24743119/	彼得·萨特勒	克里斯汀·斯图尔特	佩曼·莫阿迪	莱恩·加里逊	2014-10-17	剧情	
+黎明的沙耶	25870671	6.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2201501453.jpg	http://movie.douban.com/subject/25870671/	深川栄洋	新垣结衣	大泉洋	中村苍	2014-11-08	剧情	
+今天的恋爱	25828521	5.9	http://img6.douban.com/view/movie_poster_cover/spst/public/p2217374047.jpg	http://movie.douban.com/subject/25828521/	朴珍杓	李昇基	文彩元	李瑞镇	2015-01-14	喜剧	爱情	
+四个月亮	25767853	7.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224626085.jpg	http://movie.douban.com/subject/25767853/	Sergio·Tovar·Velarde	安东尼奥·贝拉兹奎斯	Alejandro·de·la·Madrid	凯撒·拉莫斯	2014-11-21	剧情	同性	
+安娜贝尔	25812885	5.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2203515671.jpg	http://movie.douban.com/subject/25812885/	约翰·R·莱昂耐迪	安娜贝拉·沃丽丝	瓦德·霍尔顿	托尼·阿门多拉	2014-10-03	恐怖	
+地下墓穴	25821124	6.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2197368321.jpg	http://movie.douban.com/subject/25821124/	约翰·埃里克·道达尔	佩蒂塔·维克斯	本·费德曼	艾德文·霍德吉	2014-08-20	惊悚	恐怖	
+重拾人生	26201173	6.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2219724275.jpg	http://movie.douban.com/subject/26201173/	杰姆·耶尔马兹	杰姆·耶尔马兹	图林·奥曾	Zafer·Algöz	2014-10-02	喜剧	
+黑海夺金	10581884	6.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224063661.jpg	http://movie.douban.com/subject/10581884/	凯文·麦克唐纳	裘德·洛	茱蒂·威泰克	本·门德尔森	2014-12-05	惊悚	冒险	
+心脏移植医师	26200413	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2230142960.jpg	http://movie.douban.com/subject/26200413/	Lukasz·Palkowski	Tomasz·Kot	Piotr·Glowacki	Piotr·Warszawski	2014-10-10	剧情	传记	
+拼凑梦想	25863669	7.6	http://img6.douban.com/view/photo/thumb/public/p2249183333.jpg	http://movie.douban.com/subject/25863669/	肖恩·麦克纳马拉	阿丽夏·维加	玛丽莎·托梅	杰米·李·柯蒂斯	2015-01-16	运动	
+恶老板2	22508259	6.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2206929127.jpg	http://movie.douban.com/subject/22508259/	希恩·安德鲁斯	杰森·贝特曼	杰森·苏戴奇斯	查理·戴	2014-11-26	喜剧	
+日日摇滚	25841241	5.7	http://img6.douban.com/view/movie_poster_cover/spst/public/p2199668233.jpg	http://movie.douban.com/subject/25841241/	入江悠	野村周平	二阶堂富美	前野朋哉	2014-11-22	剧情	音乐	
+刺客学妹	6873851	4.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2240344988.jpg	http://movie.douban.com/subject/6873851/	凯尔·纽曼	海莉·斯坦菲尔德	苏菲·特纳	杰西卡·阿尔芭	2015-04-30	喜剧	动作	冒险	
+温暖渐冻心	3006306	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2204911658.jpg	http://movie.douban.com/subject/3006306/	乔治·乌尔夫	乔什·杜哈明	希拉里·斯万克	埃米·罗森	2014-10-10	剧情	
+麻雀王	26331206	4.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2231826019.jpg	http://movie.douban.com/subject/26331206/	郑建国	杜汶泽	李国煌	叶璇	2015-02-19	喜剧	
+黄飞鸿之英雄有梦	25444447	5.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2209287190.jpg	http://movie.douban.com/subject/25444447/	周显扬	彭于晏	井柏然	王珞丹	2014-11-21	剧情	动作	爱情	武侠	
+心花路放	25717233	7.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2199268153.jpg	http://movie.douban.com/subject/25717233/	宁浩	黄渤	徐峥	袁泉	2014-09-30	喜剧	爱情	
+远离人迹	24718802	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2198377689.jpg	http://movie.douban.com/subject/24718802/	大卫·奥霍芬	维果·莫腾森	安吉拉·摩琳娜	Reda·Kateb	2014-08-31	剧情	
+一个人的武林	24695277	6.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2206992257.jpg	http://movie.douban.com/subject/24695277/	陈德森	甄子丹	王宝强	杨采妮	2014-10-31	动作	惊悚	
+不死鸟	22637441	7.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2224655337.jpg	http://movie.douban.com/subject/22637441/	克利斯蒂安·佩措尔德	尼娜·霍斯	隆纳德·泽荷菲德	尼娜·昆岑多夫	2014-09-25	剧情	历史	
+德古拉元年	2147872	6.0	http://img6.douban.com/view/movie_poster_cover/spst/public/p2202249262.jpg	http://movie.douban.com/subject/2147872/	盖瑞·肖	卢克·伊万斯	莎拉·加顿	多米尼克·库珀	2014-10-10	剧情	动作	奇幻	
+阿呆与阿瓜2	10577854	6.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2188955424.jpg	http://movie.douban.com/subject/10577854/	鲍比·法拉利	金·凯瑞	杰夫·丹尼尔斯	罗伯·里格尔	2014-11-14	喜剧	
+单身男女2	21359619	5.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2209656483.jpg	http://movie.douban.com/subject/21359619/	杜琪峰	古天乐	杨千嬅	高圆圆	2014-11-11	喜剧	爱情	
+警察游戏	24702267	6.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2208475922.jpg	http://movie.douban.com/subject/24702267/	卢克·格林菲德	杰克·约翰逊	小达蒙·韦恩斯	罗伯·里格尔	2014-08-13	喜剧	动作	
+最好的我	24882719	6.6	http://img6.douban.com/view/movie_poster_cover/spst/public/p2189902872.jpg	http://movie.douban.com/subject/24882719/	迈克尔·霍夫曼	米歇尔·莫娜汉	詹姆斯·麦斯登	卢克·布雷西	2014-10-17	剧情	爱情	
+小叮当：永无兽传奇	26258872	7.8	http://img6.douban.com/view/movie_poster_cover/spst/public/p2228549339.jpg	http://movie.douban.com/subject/26258872/	Steve·Loter	金妮弗·古德温	梅·惠特曼	刘玉玲	2014-12-19	动画	家庭	冒险	
+一生一世	25713408	5.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2196449817.jpg	http://movie.douban.com/subject/25713408/	邹佡	谢霆锋	高圆圆	杜海涛	2014-09-05	爱情	
+机器纪元	6873819	6.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2213751986.jpg	http://movie.douban.com/subject/6873819/	加贝·伊班内兹	安东尼奥·班德拉斯	迪伦·麦克德莫特	梅兰尼·格里菲斯	2014-11-28	科幻	惊悚	
+全能囧爸	26011893	7.3	http://img6.douban.com/view/movie_poster_cover/spst/public/p2230484792.jpg	http://movie.douban.com/subject/26011893/	董春泽	罗京民	孙波	于非	2015-03-05	喜剧	
+幸运情人草	25845399	5.5	http://img6.douban.com/view/movie_poster_cover/spst/public/p2191196174.jpg	http://movie.douban.com/subject/25845399/	古澤健	武井咲	大仓忠义	永山绚斗	2014-11-01	爱情	
+赌棍	25725759	6.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2207098954.jpg	http://movie.douban.com/subject/25725759/	鲁伯特·瓦耶特	马克·沃尔伯格	Griffin·Cleveland	杰西卡·兰格	2014-12-25	剧情	
+热浴盆时光机2	25764502	4.6	http://img6.douban.com/view/photo/thumb/public/p2223809646.jpg	http://movie.douban.com/subject/25764502/	斯蒂夫·平克	亚当·斯科特	吉莉安·雅各布斯	切维·切斯	2015-02-20	喜剧	
+不速之客	25721544	6.2	http://img6.douban.com/view/movie_poster_cover/spst/public/p2196559082.jpg	http://movie.douban.com/subject/25721544/	亚当·温加德	丹·史蒂文斯	麦卡·梦露	布雷丹·梅耶尔	2014-09-17	动作	悬疑	惊悚	
+忘了去懂你	10807892	6.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2196750997.jpg	http://movie.douban.com/subject/10807892/	权聆	陶虹	郭晓冬	王紫逸	2014-08-29	剧情	家庭	
+有一天	25882279	7.4	http://img6.douban.com/view/movie_poster_cover/spst/public/p2198749463.jpg	http://movie.douban.com/subject/25882279/	李睿珺	周迅	韩庚	冯绍峰	2014-09-10	剧情	儿童	
+购物车	25780664	7.1	http://img6.douban.com/view/movie_poster_cover/spst/public/p2199056293.jpg	http://movie.douban.com/subject/25780664/	夫智瑛	廉晶雅	文晶熙	金英爱	2014-11-13	剧情	
+狄仁杰之通天帝国	3412830	6.4	http://img3.douban.com/view/movie_poster_cover/spst/public/p2166635320.jpg	http://movie.douban.com/subject/3412830/	徐克	刘德华	刘嘉玲	李冰冰	2010-09-29	剧情	动作	悬疑	犯罪	古装	
+深夜食堂	3991933	9.2	http://img3.douban.com/view/movie_poster_cover/spst/public/p1584946881.jpg	http://movie.douban.com/subject/3991933/	松冈锭司	小林薰	须藤理彩	田畑智子	2009-10-09	剧情	
